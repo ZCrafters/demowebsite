@@ -1,7 +1,7 @@
 # Marveile.id — Workflow
 
-> Sumber tunggal alur kerja migrasi Vite (Nigoo) → Next.js (Marveile) + demo GitHub.
-> Referensi IA: `docs/reference/uniqlo-men-scaffold.html` (terinspirasi struktur, bukan salinan).
+> Sumber tunggal alur kerja migrasi Vite lama → Next.js (Marveile) + demo GitHub.
+> Referensi IA: `docs/reference/men-scaffold.html` (terinspirasi struktur, bukan salinan).
 
 ## 1. Prinsip
 1. Satu fungsi = satu elemen. Contoh: search hanya di Catalog (`#catalog-search`), TopNav hanya fokus ke sana. Dilarang duplikat overlay + inline.
@@ -31,6 +31,6 @@
 - `npm run build` lolos, push `main`, deploy Vercel preview.
 
 ## 3. Larangan
-- Dilarang scrape agresif / copy foto-copy Uniqlo. Scaffold hanya referensi IA.
+- Dilarang scrape agresif / copy foto-copy referensi. Scaffold hanya referensi IA.
 - Dilarang tambah search/filter ganda tanpa hapus yang lama.
 - Dilarang push `.env`, `node_modules`, `.next`, `*.xlsx` besar.

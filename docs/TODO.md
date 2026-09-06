@@ -8,7 +8,7 @@
 - [x] Tulis `docs/WORKFLOW.md`, `docs/CONTEXT.md`, `docs/TODO.md`
 
 ## Next.js migration (in-place, hapus Vite lama)
-- [x] Backup data → diarsipkan di `docs/archive/` (raw + docs era Nigoo)
+- [x] Backup data → diarsipkan di `docs/archive/` (raw + docs era lama)
 - [x] Init Next.js: App Router JSX + `npm install` + `npm run build` lolos
 - [x] Hapus sisa Vite: `src/`, `dist/`, `public/data/` lama, scripts lama (sisa `validate-marveile.js`)
 - [x] Terapkan token Rosewood di `app/globals.css` + font Outfit/Satoshi
@@ -20,14 +20,14 @@
 ## Excel audit (multisheet)
 - [x] `data/marveile-katalog-audit.xlsx`: Ringkasan 8 baris, Produk 44, Dedup 44, Preloved_Terpisah 24 (second, bukan harga resmi)
 
-## PDP + filter (tutup gap vs Uniqlo)
+## PDP + filter (tutup gap vs referensi)
 - [x] `app/produk/[slug]/page.jsx`: gallery, size chart, CTA marketplace, related, JSON-LD, 44 static paths
 - [x] Filter katalog `?cat=&size=&max=&sort=&page=` (GET form, tanpa JS) + kartu link ke PDP
 - [x] `npm run build` lolos 49 halaman
 
 ## Cleanup + animejs
-- [x] Hapus mati: `run.cjs`, `product-overrides.json`, xlsx Nigoo; `.h2d` keluar tree + `*.h2d` di gitignore
-- [x] Arsip: raw + 3 docs Nigoo → `docs/archive/`; scaffold → `docs/reference/`
+- [x] Hapus mati: `run.cjs`, `product-overrides.json`, xlsx lama; `.h2d` keluar tree + `*.h2d` di gitignore
+- [x] Arsip: raw + 3 docs lama → `docs/archive/`; scaffold → `docs/reference/`
 - [x] Hapus `PromoBanner` generik (menang `PromoPeriod`) + CSS-nya
 - [x] `npm install animejs@4.5.0` + `Reveal` (stagger fade-up, reduced-motion safe)
 - [x] Animasi: hero, grid kategori/best/new/promo/katalog, pulse add-to-cart
