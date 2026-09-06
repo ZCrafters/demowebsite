@@ -1,5 +1,6 @@
 import { products, rupiah } from "../../lib/products";
 import { ProductCard } from "../../components/ui/ProductCard";
+import { Breadcrumb } from "../../components/ui/Chrome";
 import { FilterSidebar, SortDropdown } from "../../components/plp/Filters";
 import { FilterBottomSheet } from "../../components/plp/FilterBottomSheet";
 
@@ -38,7 +39,7 @@ export default function Catalog({ searchParams }) {
 
   return (
     <>
-      <p style={{ fontSize: 12, color: "var(--color-muted)" }}>Home / <strong>Katalog</strong></p>
+      <Breadcrumb trail={[{ label: "Home", href: "/" }, { label: cat ? `Katalog / ${cat}` : "Katalog" }]} />
       <h1 style={{ margin: "4px 0 0" }}>Katalog{cat ? ` — ${cat}` : ""}</h1>
       <div className="plp" style={{ marginTop: 12 }}>
         <FilterSidebar current={current} />

@@ -3,6 +3,7 @@ import { getProduct, getRelated, products } from "../../../lib/products";
 import { Gallery } from "../../../components/pdp/Gallery";
 import { BuyBox } from "../../../components/pdp/BuyBox";
 import { RelatedCarousel } from "../../../components/pdp/RelatedCarousel";
+import { Breadcrumb } from "../../../components/ui/Chrome";
 
 export function generateStaticParams() {
   return products.map((p) => ({ slug: p.slug }));
@@ -21,9 +22,7 @@ export default function ProductDetail({ params }) {
   if (!p) notFound();
   return (
     <>
-      <p style={{ fontSize: 12, color: "var(--color-muted)" }}>
-        <a href="/catalog">Katalog</a> / <a href={`/kategori/${p.category}`} style={{ textTransform: "capitalize" }}>{p.category}</a> / <strong>{p.name}</strong>
-      </p>
+      <Breadcrumb trail={[{ label: "Home", href: "/" }, { label: "Katalog", href: "/catalog" }, { label: p.name }]} />
       <div className="pdp">
         <Gallery images={p.images} name={p.name} />
         <BuyBox p={p} />

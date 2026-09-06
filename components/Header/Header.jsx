@@ -1,12 +1,24 @@
+"use client";
+import { usePathname } from "next/navigation";
+import Image from "next/image";
 import { MEGA_MENU } from "../../lib/products";
 import { ChevronDownIcon } from "../ui/Icons";
 import { ExpandableSearch } from "./ExpandableSearch";
 import { CartBadge } from "./CartBadge";
 import { MobileNav } from "./MobileNav";
 
+const THUMBS = {
+  Dress: "mv-mega-dress",
+  Top: "mv-mega-top",
+  Bawahan: "mv-mega-bottom",
+  "Outer & Set": "mv-mega-outer",
+};
+
 export function Header() {
+  const pathname = usePathname();
+  const overlay = pathname === "/";
   return (
-    <header className="site-header">
+    <header className={`site-header${overlay ? " overlay" : ""}`}>
       <nav className="nav" aria-label="Navigasi utama">
         <MobileNav />
         <a href="/" className="wordmark" aria-label="Marveile, beranda">marveile<span>.</span></a>
@@ -18,6 +30,9 @@ export function Header() {
             <div className="mega" role="menu" aria-label="Mega menu kategori">
               {MEGA_MENU.map((g) => (
                 <div key={g.title}>
+                  <span className="mega-thumb" aria-hidden="true">
+                    <Image src={`https://picsum.photos/seed/${THUMBS[g.title] || "mv-mega"}/360/240`} alt="" width={180} height={120} loading="lazy" />
+                  </span>
                   <h3>{g.title}</h3>
                   <p>{g.desc}</p>
                   {g.links.map((l) => (
@@ -28,7 +43,7 @@ export function Header() {
             </div>
           </div>
           <a className="nav-link" href="/catalog">Semua Produk</a>
-          <a className="nav-link" href="/catalog?sort=hero">Best Seller</a>
+          <a className="nav-link" href="/catalog?sort=sold">Best Seller</a>
           <a className="nav-link" href="/about">Tentang</a>
         </div>
         <div className="nav-right">

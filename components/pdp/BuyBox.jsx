@@ -30,7 +30,16 @@ export function BuyBox({ p }) {
     <div>
       {p.badge && <span className="badge" style={{ position: "static" }}>{p.badge}</span>}
       <h1>{p.name}</h1>
-      <p className="price">{rupiah(p.price)}</p>
+      <p className="meta">{p.gender}, {p.sizeRange}</p>
+      {p.originalPrice ? (
+        <p style={{ margin: "6px 0" }}>
+          <s className="price-was">{rupiah(p.originalPrice)}</s>{" "}
+          <span className="price price-promo" style={{ fontSize: 24 }}>{rupiah(p.price)}</span>
+          <br /><span className="promo-note">{p.promoNote} hingga {p.promoUntil}</span>
+        </p>
+      ) : (
+        <p className="price" style={{ fontSize: 24 }}>{rupiah(p.price)}</p>
+      )}
       <Rating value={p.rating} reviews={p.reviews} />
       {p.provisional && <p className="meta">Harga provisional — konfirmasi di official store.</p>}
 

@@ -4,7 +4,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from "../ui/Icons";
 
 export function Hero() {
   return (
-    <section className="hero-banner" aria-label="Koleksi unggulan">
+    <section className="hero-banner hero-under" aria-label="Koleksi unggulan">
       <Image src="https://picsum.photos/seed/marveile-hero/1600/900" alt="Model memakai koleksi Marveile" fill priority
         sizes="(max-width: 768px) 100vw, 1400px" />
       <div className="hero-copy">
