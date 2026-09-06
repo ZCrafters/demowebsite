@@ -1,6 +1,5 @@
 import { allCategories, allColors, allSizes, maxPrice, minPrice, rupiah } from "../../lib/products";
 
-// Field filter murni-props: dipakai sidebar server & bottom-sheet client.
 export function FilterFields({ current }) {
   const { cat = "", size = "", color = "", max = "", q = "", sort = "featured" } = current;
   return (
@@ -34,9 +33,7 @@ export function FilterFields({ current }) {
         <legend>Harga maksimal</legend>
         <input type="range" className="price-range" name="max" min={minPrice} max={maxPrice} step={10000}
           defaultValue={max || maxPrice} aria-label="Harga maksimal" />
-        <span style={{ fontSize: 13, color: "var(--color-muted)" }}>
-          s.d. {rupiah(Number(max) || maxPrice)}
-        </span>
+        <span style={{ fontSize: 13, color: "var(--color-muted)" }}>s.d. {rupiah(Number(max) || maxPrice)}</span>
       </fieldset>
       {q && <input type="hidden" name="q" value={q} />}
       <input type="hidden" name="sort" value={sort} />
@@ -57,18 +54,17 @@ export function FilterSidebar({ current }) {
 }
 
 export function SortDropdown({ current, base = "/catalog" }) {
-  const s = new URLSearchParams();
-  ["q", "cat", "size", "color", "max"].forEach((k) => current[k] && s.set(k, current[k]));
-  const href = (sort) => `${base}?${[...s.entries()].filter(([k]) => k !== "sort").map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join("&")}${s.size ? "&" : "?"}sort=${sort}`.replace("?&", "?");
-  const label = { featured: "Pilihan", sold: "Terlaris", "price-asc": "Termurah", new: "Terbaru" }[current.sort || "featured"];
+  const opts = [["featured", "Pilihan"], ["sold", "Terlaris"], ["price-asc", "Termurah"], ["price-desc", "Termahal"], ["name-asc", "A–Z"], ["name-desc", "Z–A"], ["new", "Terbaru"]];
+  const qs = new URLSearchParams();
+  ["q", "cat", "size", "color", "max"].forEach((k) => current[k] && qs.set(k, current[k]));
+  const otherQs = [...qs.entries()].map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join("&");
+  const href = (sort) => `${base}?${otherQs ? otherQs + "&" : ""}sort=${sort}`;
+  const label = opts.find(([v]) => v === (current.sort || "featured"))?.[1] || "Pilihan";
   return (
     <details className="sort-dd">
       <summary aria-label="Urutkan produk">Urut: {label} ▾</summary>
       <div className="sort-menu" role="menu">
-        <a href={href("featured")}>Pilihan</a>
-        <a href={href("sold")}>Terlaris</a>
-        <a href={href("price-asc")}>Termurah</a>
-        <a href={href("new")}>Terbaru</a>
+        {opts.map(([v, l]) => <a key={v} href={href(v)}>{l}</a>)}
       </div>
     </details>
   );

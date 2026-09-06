@@ -55,7 +55,7 @@ export function CheckoutFlow() {
 
   const set = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }));
 
-  const validAddress = () => {
+  const validAddress = (setIt = true) => {
     const e = {};
     if (form.nama.trim().length < 3) e.nama = "Isi nama penerima (min. 3 huruf).";
     if (!/^[+0-9][0-9() \-]{7,19}$/.test(form.hp.trim())) e.hp = "Nomor HP 8–20 digit angka.";
@@ -63,8 +63,21 @@ export function CheckoutFlow() {
     if (form.alamat.trim().length < 10) e.alamat = "Alamat lengkap min. 10 karakter.";
     if (!form.kota.trim()) e.kota = "Isi kota/kecamatan.";
     if (!/^[0-9]{5}$/.test(form.kodepos.trim())) e.kodepos = "Kode pos 5 digit angka.";
-    setErrs(e);
+    if (setIt) setErrs(e);
     return Object.keys(e).length === 0;
+  };
+
+  const validateField = (key) => {
+    setErrs((prev) => ({ ...prev, [key]: validAddress(false) ? undefined : (() => {
+      const e = {};
+      if (form.nama.trim().length < 3) e.nama = "Isi nama penerima (min. 3 huruf).";
+      if (!/^[+0-9][0-9() \-]{7,19}$/.test(form.hp.trim())) e.hp = "Nomor HP 8–20 digit angka.";
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email.trim())) e.email = "Email tidak valid.";
+      if (form.alamat.trim().length < 10) e.alamat = "Alamat lengkap min. 10 karakter.";
+      if (!form.kota.trim()) e.kota = "Isi kota/kecamatan.";
+      if (!/^[0-9]{5}$/.test(form.kodepos.trim())) e.kodepos = "Kode pos 5 digit angka.";
+      return e[key];
+    })() }));
   };
 
   if (items.length === 0 && !paid)
@@ -106,23 +119,23 @@ export function CheckoutFlow() {
             <form noValidate onSubmit={(e) => { e.preventDefault(); if (validAddress()) { setStep(2); window.scrollTo(0, 0); } }}>
               <h2>Alamat pengiriman</h2>
               <Field label="Nama penerima" error={errs.nama}>
-                <input value={form.nama} onChange={set("nama")} autoComplete="name" maxLength={100} aria-invalid={!!errs.nama} />
+                <input value={form.nama} onChange={set("nama")} onBlur={() => validateField("nama")} autoComplete="name" maxLength={100} aria-invalid={!!errs.nama} />
               </Field>
               <Field label="Nomor HP" error={errs.hp}>
-                <input type="tel" value={form.hp} onChange={set("hp")} inputMode="tel" placeholder="08…" aria-invalid={!!errs.hp} />
+                <input type="tel" value={form.hp} onChange={set("hp")} onBlur={() => validateField("hp")} inputMode="tel" placeholder="08…" aria-invalid={!!errs.hp} />
               </Field>
               <Field label="Email" error={errs.email}>
-                <input type="email" value={form.email} onChange={set("email")} inputMode="email" placeholder="nama@email.com" aria-invalid={!!errs.email} />
+                <input type="email" value={form.email} onChange={set("email")} onBlur={() => validateField("email")} inputMode="email" placeholder="nama@email.com" aria-invalid={!!errs.email} />
               </Field>
               <Field label="Alamat lengkap" error={errs.alamat}>
-                <textarea value={form.alamat} onChange={set("alamat")} rows={3} maxLength={400} aria-invalid={!!errs.alamat} />
+                <textarea value={form.alamat} onChange={set("alamat")} onBlur={() => validateField("alamat")} rows={3} maxLength={400} aria-invalid={!!errs.alamat} />
               </Field>
               <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
                 <Field label="Kota / kecamatan" error={errs.kota}>
-                  <input value={form.kota} onChange={set("kota")} aria-invalid={!!errs.kota} />
+                  <input value={form.kota} onChange={set("kota")} onBlur={() => validateField("kota")} aria-invalid={!!errs.kota} />
                 </Field>
                 <Field label="Kode pos" error={errs.kodepos}>
-                  <input value={form.kodepos} onChange={set("kodepos")} inputMode="numeric" maxLength={5} placeholder="12345" aria-invalid={!!errs.kodepos} />
+                  <input value={form.kodepos} onChange={set("kodepos")} onBlur={() => validateField("kodepos")} inputMode="numeric" maxLength={5} placeholder="12345" aria-invalid={!!errs.kodepos} />
                 </Field>
               </div>
               <button className="btn" type="submit">Lanjut ke pengiriman →</button>

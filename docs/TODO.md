@@ -25,11 +25,13 @@
 - [x] Filter katalog `?cat=&size=&max=&sort=&page=` (GET form, tanpa JS) + kartu link ke PDP
 - [x] `npm run build` lolos 49 halaman
 
-## Cleanup + animejs
-- [x] Hapus mati: `run.cjs`, `product-overrides.json`, xlsx lama; `.h2d` keluar tree + `*.h2d` di gitignore
-- [x] Arsip: raw + 3 docs lama → `docs/archive/`; scaffold → `docs/reference/`
-- [x] Hapus `PromoBanner` generik (menang `PromoPeriod`) + CSS-nya
-- [x] `npm install animejs@4.5.0` + `Reveal` (stagger fade-up, reduced-motion safe)
-- [x] Animasi: hero, grid kategori/best/new/promo/katalog, pulse add-to-cart
-- [x] Build 61 halaman + smoke 200 (/, katalog, PDP, checkout)
+## Layer 1: token, SEO, search, PLP, halaman baru
+- [x] Token Rosewood final + font Outfit/Cabinet Grotesk via Google Fonts
+- [x] `app/sitemap.js` (65 entry) + `public/robots.txt`; noindex dihapus dari root
+- [x] Search: recent (localStorage) + live suggestions (top-6)
+- [x] PLP: sort alfabet (A–Z / Z–A) + view toggle grid/list
+- [x] Halaman baru: `/wishlist` (WishlistClient), `/faq` (7 Q&A), `/lookbook` (4 edit)
+- [x] Cart: free shipping progress bar (target Rp500K) + on-blur validasi checkout
+- [x] Footer link ke FAQ/Lookbook/Wishlist
+- [x] Build 65 halaman + smoke 200 (9 route)
 - [ ] Import ke Vercel → deploy preview → tempel URL demo di sini: ____

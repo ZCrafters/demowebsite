@@ -1,9 +1,10 @@
 import { products, rupiah } from "../../lib/products";
 import { ProductCard } from "../../components/ui/ProductCard";
+import { ProductRow } from "../../components/ui/ProductRow";
 import { Breadcrumb } from "../../components/ui/Chrome";
 import { FilterSidebar, SortDropdown } from "../../components/plp/Filters";
 import { FilterBottomSheet } from "../../components/plp/FilterBottomSheet";
-import { Reveal } from "../../components/motion/Reveal";
+import { GridIcon, ListIcon } from "../../components/ui/Icons";
 
 const PER_PAGE = 24;
 
@@ -14,6 +15,7 @@ export default function Catalog({ searchParams }) {
   const colors = (searchParams?.color || "").split(",").filter(Boolean);
   const max = parseInt(searchParams?.max || "", 10) || 0;
   const sort = searchParams?.sort || "featured";
+  const view = searchParams?.view === "list" ? "list" : "grid";
   const page = Math.max(1, parseInt(searchParams?.page || "1", 10) || 1);
 
   let list = products.filter(
@@ -25,14 +27,23 @@ export default function Catalog({ searchParams }) {
       (!max || p.price <= max)
   );
   if (sort === "price-asc") list = [...list].sort((a, b) => a.price - b.price);
+  if (sort === "price-desc") list = [...list].sort((a, b) => b.price - a.price);
   if (sort === "sold") list = [...list].sort((a, b) => b.sold - a.sold);
   if (sort === "new") list = [...list].sort((a, b) => Number(b.isNew) - Number(a.isNew) || b.id - a.id);
+  if (sort === "name-asc") list = [...list].sort((a, b) => a.name.localeCompare(b.name));
+  if (sort === "name-desc") list = [...list].sort((a, b) => b.name.localeCompare(a.name));
 
   const activeFilters = (cat ? 1 : 0) + sizes.length + colors.length + (max ? 1 : 0);
   const shown = list.slice(0, page * PER_PAGE);
   const pageQs = (p) => {
     const s = new URLSearchParams(searchParams);
     p > 1 ? s.set("page", String(p)) : s.delete("page");
+    const str = s.toString();
+    return `/catalog${str ? `?${str}` : ""}`;
+  };
+  const viewQs = (v) => {
+    const s = new URLSearchParams(searchParams);
+    v === "grid" ? s.delete("view") : s.set("view", v);
     const str = s.toString();
     return `/catalog${str ? `?${str}` : ""}`;
   };
@@ -55,13 +66,17 @@ export default function Catalog({ searchParams }) {
           <div className="plp-bar">
             <FilterBottomSheet current={current} count={activeFilters} />
             <span className="count" role="status">{list.length} produk</span>
+            <span className="view-toggle" role="group" aria-label="Tampilan">
+              <a href={viewQs("grid")} aria-current={view === "grid" || undefined} aria-label="Tampilan grid"><GridIcon size={18} /></a>
+              <a href={viewQs("list")} aria-current={view === "list" || undefined} aria-label="Tampilan daftar"><ListIcon size={18} /></a>
+            </span>
             <span style={{ marginLeft: "auto" }}><SortDropdown current={current} /></span>
           </div>
           {max ? <p className="meta">Harga maks: {rupiah(max)} · <a href="/catalog">reset</a></p> : null}
           {shown.length ? (
-            <Reveal className="grid" staggerChildren aria-label="Produk">
-              {shown.map((p) => <ProductCard key={p.slug} p={p} />)}
-            </Reveal>
+            view === "list"
+              ? <section className="rows" aria-label="Produk">{shown.map((p) => <ProductRow key={p.slug} p={p} />)}</section>
+              : <section className="grid" aria-label="Produk">{shown.map((p) => <ProductCard key={p.slug} p={p} />)}</section>
           ) : (
             <div className="empty-cart">
               <strong>Tidak ada hasil.</strong>

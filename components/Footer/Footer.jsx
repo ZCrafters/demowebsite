@@ -21,6 +21,7 @@ export function Footer() {
       <div className="foot-grid">
         <div>
           <h3>Bantuan</h3>
+          <a href="/faq">FAQ</a>
           <a href="/about">Cara belanja</a>
           <a href="/about">Info pengiriman</a>
           <a href="/about">Retur &amp; penukaran</a>
@@ -29,7 +30,8 @@ export function Footer() {
         <div>
           <h3>Tentang Marveile</h3>
           <a href="/about">Brand kami</a>
-          <a href="/catalog">Katalog</a>
+          <a href="/lookbook">Lookbook</a>
+          <a href="/wishlist">Wishlist</a>
           <a href="/catalog?sort=new">New arrivals</a>
         </div>
         <div>

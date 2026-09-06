@@ -1,9 +1,9 @@
-/* Marveile theme tokens — PLACEHOLDER, isi belakangan. Jangan hardcode warna di komponen. */
+/* Marveile theme tokens — Rosewood. */
 :root {
   --color-bg: #faf7f2;
   --color-surface: #ffffff;
   --color-ink: #1c1917;
-  --color-muted: #78716c;
+  --color-muted: #6f6963;
   --color-line: #e7e0d6;
   --color-primary: #1c1917;
   --color-accent: #9a5a64;
@@ -24,11 +24,13 @@
 html { scroll-behavior: smooth; }
 body {
   margin: 0;
-  font-family: Outfit, Satoshi, "Helvetica Neue", Arial, system-ui, sans-serif;
+  font-family: "Outfit", "Satoshi", "Helvetica Neue", Arial, system-ui, sans-serif;
   background: var(--color-bg);
   color: var(--color-ink);
   line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
+h1, h2, h3 { font-family: "Cabinet Grotesk", "Outfit", "Satoshi", "Helvetica Neue", Arial, system-ui, sans-serif; letter-spacing: -0.01em; }
 a { color: inherit; text-decoration: none; }
 button { font: inherit; }
 img { max-width: 100%; }
@@ -98,6 +100,12 @@ img { max-width: 100%; }
 .search-panel { position: absolute; top: 0; left: 0; right: 0; background: var(--color-surface); border-bottom: 1px solid var(--color-line); padding: 18px 20px 22px; transform: translateY(-100%); transition: transform 280ms var(--ease); }
 .search-overlay.open .search-panel { transform: translateY(0); }
 .search-panel-inner { max-width: 720px; margin: 0 auto; }
+.search-recent { margin-top: 16px; }
+.search-suggest { display: grid; margin-top: 12px; border: 1px solid var(--color-line); border-radius: 12px; overflow: hidden; background: var(--color-surface); }
+.suggest-row { display: flex; align-items: center; gap: 10px; min-height: var(--tap); padding: 0 14px; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--color-line); color: inherit; cursor: pointer; }
+.suggest-row:last-child { border-bottom: 0; }
+.suggest-row:hover { background: var(--color-bg); }
+.suggest-row small { color: var(--color-muted); margin-left: auto; }
 .search-form { display: flex; gap: 8px; }
 .search-form input { flex: 1; min-height: var(--tap); border: 1px solid var(--color-line); border-radius: 999px; padding: 0 18px; font-size: 15px; background: var(--color-bg); color: inherit; min-width: 0; }
 
@@ -172,6 +180,30 @@ input[type="range"].price-range { width: 100%; accent-color: var(--color-accent)
 .plp-bar { display: flex; align-items: center; gap: 12px; margin: 14px 0; flex-wrap: wrap; }
 .plp-bar .count { color: var(--color-muted); font-size: 13px; }
 .filter-fab { display: none; }
+.view-toggle { display: inline-flex; gap: 4px; border: 1px solid var(--color-line); border-radius: 999px; padding: 3px; }
+.view-toggle a { width: 36px; height: 36px; display: inline-grid; place-items: center; border-radius: 999px; color: var(--color-muted); }
+.view-toggle a[aria-current] { background: var(--color-primary); color: var(--color-surface); }
+.rows { display: grid; gap: 10px; }
+.look-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+.look-card { display: grid; gap: 8px; }
+.look-photo { position: relative; aspect-ratio: 3/4; border-radius: var(--radius); overflow: hidden; background: var(--color-line); }
+.look-photo img { object-fit: cover; }
+.look-meta { display: grid; gap: 2px; padding: 0 4px; }
+.look-meta strong { font-size: 16px; }
+.look-meta span { font-size: 13px; color: var(--color-muted); }
+.free-bar { background: var(--color-bg); border-radius: 10px; padding: 10px 12px; font-size: 12px; margin-bottom: 10px; }
+.free-bar .track { height: 6px; border-radius: 999px; background: var(--color-line); margin-top: 6px; overflow: hidden; }
+.free-bar .track i { display: block; height: 100%; background: var(--color-success); transition: width 300ms var(--ease); }
+.row-card { display: grid; grid-template-columns: 120px 1fr 160px; gap: 14px; align-items: center; background: var(--color-surface); border: 1px solid var(--color-line); border-radius: var(--radius); padding: 12px; }
+.row-img { position: relative; aspect-ratio: 3/4; background: var(--color-bg); border-radius: 10px; overflow: hidden; display: block; }
+.row-img img { width: 100%; height: 100%; object-fit: cover; }
+.row-info { display: grid; gap: 4px; }
+.row-info .card-name { font-size: 15px; }
+.row-swatches { display: inline-flex; gap: 4px; }
+.row-swatches i { width: 12px; height: 12px; border-radius: 999px; border: 1px solid var(--color-line); display: inline-block; }
+.row-meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--color-muted); }
+.row-price { text-align: right; display: grid; gap: 2px; }
+.row-price .price-promo { color: var(--color-danger); }
 .catalog-search input { width: 100%; border: 1px solid var(--color-line); border-radius: 999px; padding: 0 18px; min-height: var(--tap); font-size: 15px; background: var(--color-surface); color: inherit; }
 /* Bottom sheet */
 .sheet { position: fixed; inset: 0; z-index: 60; visibility: hidden; }
@@ -276,6 +308,9 @@ details.acc .acc-body { padding: 0 16px 16px; font-size: 14px; color: var(--colo
   .plp { grid-template-columns: 1fr; }
   .filter-box.desktop-only { display: none; }
   .filter-fab { display: inline-flex; }
+  .row-card { grid-template-columns: 84px 1fr; }
+  .row-price { grid-column: 1 / -1; text-align: left; }
+  .look-grid { grid-template-columns: repeat(2, 1fr); }
   .co-grid { grid-template-columns: 1fr; }
   .foot-grid { grid-template-columns: 1fr 1fr; }
 }

@@ -22,6 +22,9 @@ export const ChevronRightIcon = (p) => <Icon label="Berikutnya" {...p} d="M10 6l
 export const FilterIcon = (p) => <Icon label="Filter" {...p} d="M4 6h16M7 12h10M10 18h4" />;
 export const TruckIcon = (p) => <Icon label="Pengiriman" {...p} d="M3 7h11v8H3zM14 10h4l3 3v2h-7zM7 18a1.6 1.6 0 1 0 0 .01M17 18a1.6 1.6 0 1 0 0 .01" />;
 export const ShieldIcon = (p) => <Icon label="Aman" {...p} d="M12 3l7 3v5c0 5-3.5 8-7 10-3.5-2-7-5-7-10V6z" />;
+export const ClockIcon = (p) => <Icon label="Waktu" {...p}><circle cx={12} cy={12} r={8} /><path d="M12 7v5l3 2" /></Icon>;
+export const GridIcon = (p) => <Icon label="Grid" {...p} d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" />;
+export const ListIcon = (p) => <Icon label="Daftar" {...p} d="M4 6h16M4 12h16M4 18h16" />;
 
 export const StarIcon = ({ size = 14, filled }) => (
   <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true"

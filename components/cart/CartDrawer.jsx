@@ -4,6 +4,19 @@ import { useCart } from "./CartProvider";
 import { rupiah } from "../../lib/products";
 import { CloseIcon, TrashIcon } from "../ui/Icons";
 
+function FreeShipBar({ subtotal }) {
+  const target = 500000;
+  const pct = Math.min(100, Math.round((subtotal / target) * 100));
+  if (pct >= 100) return <p className="free-bar">Selamat — kamu dapat <strong>gratis ongkir</strong>!</p>;
+  const remain = target - subtotal;
+  return (
+    <div className="free-bar">
+      <span>Tambah <strong>{rupiah(remain)}</strong> untuk gratis ongkir.</span>
+      <div className="track"><i style={{ width: `${pct}%` }} /></div>
+    </div>
+  );
+}
+
 export function CartDrawer() {
   const { items, subtotal, setQty, remove, open, setOpen } = useCart();
   return (
@@ -50,6 +63,7 @@ export function CartDrawer() {
               ))}
             </div>
             <div className="drawer-foot">
+              <FreeShipBar subtotal={subtotal} />
               <div className="subtotal"><span>Subtotal</span><span>{rupiah(subtotal)}</span></div>
               <a className="btn" href="/checkout" onClick={() => setOpen(false)}>Checkout →</a>
             </div>
