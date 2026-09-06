@@ -1,43 +1,39 @@
 "use client";
-import { useEffect, useRef } from "react";
-import { animate, stagger } from "animejs";
+import { useEffect, useRef, useState } from "react";
 
-const reduced = () =>
-  typeof window !== "undefined" &&
-  window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-// Reveal-on-scroll subtle: fade-up + stagger cascade. Aman tanpa-JS (visible default).
-export function Reveal({ children, className = "", staggerChildren = false, delay = 0 }) {
+// SSR-safe reveal: content is ALWAYS visible in HTML (no opacity 0 on initial render).
+// Enhancement animation only plays if JS loads and motion is allowed.
+// If JS fails, hydration delays, or reduced-motion → content stays fully visible.
+export function Reveal({ children, className = "", staggerChildren = false, delay = 0, as: Tag = "div" }) {
   const ref = useRef(null);
+  const [enhanced, setEnhanced] = useState(false);
+
   useEffect(() => {
-    const el = ref.current;
-    if (!el || reduced()) return;
-    const targets = staggerChildren ? Array.from(el.children) : [el];
-    targets.forEach((t) => {
-      t.style.opacity = "0";
-    });
-    const io = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((en) => {
-          if (!en.isIntersecting) return;
-          animate(targets, {
-            opacity: [0, 1],
-            translateY: [24, 0],
-            duration: 600,
-            ease: "out(3)",
-            delay: delay + stagger(80),
-          });
-          io.disconnect();
-        });
-      },
-      { threshold: 0.1 }
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, [staggerChildren, delay ]);
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduce) return;
+    setEnhanced(true);
+  }, []);
+
+  useEffect(() => {
+    if (!enhanced || !ref.current) return;
+    let cancelled = false;
+    import("animejs").then(({ animate, stagger }) => {
+      if (cancelled || !ref.current) return;
+      const targets = staggerChildren ? Array.from(ref.current.children) : [ref.current];
+      animate(targets, {
+        opacity: [0.6, 1],
+        translateY: [16, 0],
+        duration: 450,
+        ease: "out(3)",
+        delay: staggerChildren ? stagger(50) : delay,
+      });
+    }).catch(() => { /* silent */ });
+    return () => { cancelled = true; };
+  }, [enhanced, staggerChildren, delay ]);
+
   return (
-    <div ref={ref} className={className}>
+    <Tag ref={ref} className={className}>
       {children}
-    </div>
+    </Tag>
   );
 }

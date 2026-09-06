@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /cart
-Disallow: /checkout
-Sitemap: https://marveile.id-demo.vercel.app/sitemap.xml
+Disallow: /cart/
+Disallow: /checkout/
+Sitemap: https://zcrafters.github.io/marveile.id-demo/sitemap.xml

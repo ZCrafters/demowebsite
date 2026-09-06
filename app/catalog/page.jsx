@@ -1,94 +1,16 @@
-import { products, rupiah } from "../../lib/products";
-import { ProductCard } from "../../components/ui/ProductCard";
-import { ProductRow } from "../../components/ui/ProductRow";
+import CatalogClient from "./CatalogClient";
 import { Breadcrumb } from "../../components/ui/Chrome";
-import { FilterSidebar, SortDropdown } from "../../components/plp/Filters";
-import { FilterBottomSheet } from "../../components/plp/FilterBottomSheet";
-import { GridIcon, ListIcon } from "../../components/ui/Icons";
 
-const PER_PAGE = 24;
+export const metadata = { title: "Katalog — Marveile" };
 
-export default function Catalog({ searchParams }) {
-  const q = (searchParams?.q || "").toLowerCase();
-  const cat = searchParams?.cat || "";
-  const sizes = (searchParams?.size || "").split(",").filter(Boolean);
-  const colors = (searchParams?.color || "").split(",").filter(Boolean);
-  const max = parseInt(searchParams?.max || "", 10) || 0;
-  const sort = searchParams?.sort || "featured";
-  const view = searchParams?.view === "list" ? "list" : "grid";
-  const page = Math.max(1, parseInt(searchParams?.page || "1", 10) || 1);
-
-  let list = products.filter(
-    (p) =>
-      (!q || `${p.name} ${p.category}`.toLowerCase().includes(q)) &&
-      (!cat || p.category === cat) &&
-      (!sizes.length || sizes.some((s) => (p.sizes || []).includes(s))) &&
-      (!colors.length || colors.some((c) => (p.colors || []).includes(c))) &&
-      (!max || p.price <= max)
-  );
-  if (sort === "price-asc") list = [...list].sort((a, b) => a.price - b.price);
-  if (sort === "price-desc") list = [...list].sort((a, b) => b.price - a.price);
-  if (sort === "sold") list = [...list].sort((a, b) => b.sold - a.sold);
-  if (sort === "new") list = [...list].sort((a, b) => Number(b.isNew) - Number(a.isNew) || b.id - a.id);
-  if (sort === "name-asc") list = [...list].sort((a, b) => a.name.localeCompare(b.name));
-  if (sort === "name-desc") list = [...list].sort((a, b) => b.name.localeCompare(a.name));
-
-  const activeFilters = (cat ? 1 : 0) + sizes.length + colors.length + (max ? 1 : 0);
-  const shown = list.slice(0, page * PER_PAGE);
-  const pageQs = (p) => {
-    const s = new URLSearchParams(searchParams);
-    p > 1 ? s.set("page", String(p)) : s.delete("page");
-    const str = s.toString();
-    return `/catalog${str ? `?${str}` : ""}`;
-  };
-  const viewQs = (v) => {
-    const s = new URLSearchParams(searchParams);
-    v === "grid" ? s.delete("view") : s.set("view", v);
-    const str = s.toString();
-    return `/catalog${str ? `?${str}` : ""}`;
-  };
-  const current = { q: searchParams?.q || "", cat, size: sizes.join(","), color: colors.join(","), max: searchParams?.max || "", sort };
-
+// Server shell: renders breadcrumb + delegates to client component for filter/sort/pagination.
+// Required for static export because catalog uses searchParams (dynamic at runtime).
+export default function CatalogPage() {
   return (
     <>
-      <Breadcrumb trail={[{ label: "Home", href: "/" }, { label: cat ? `Katalog / ${cat}` : "Katalog" }]} />
-      <h1 style={{ margin: "4px 0 0" }}>Katalog{cat ? ` — ${cat}` : ""}</h1>
-      <div className="plp" style={{ marginTop: 12 }}>
-        <FilterSidebar current={current} />
-        <div>
-          <form className="catalog-search" action="/catalog" method="get" role="search">
-            {cat && <input type="hidden" name="cat" value={cat} />}
-            {sizes.map((s) => <input key={s} type="hidden" name="size" value={s} />)}
-            <input type="hidden" name="sort" value={sort} />
-            <input id="catalog-search" name="q" type="search" defaultValue={searchParams?.q || ""}
-              placeholder="Cari: cutbray, satin, skort…" aria-label="Cari produk" />
-          </form>
-          <div className="plp-bar">
-            <FilterBottomSheet current={current} count={activeFilters} />
-            <span className="count" role="status">{list.length} produk</span>
-            <span className="view-toggle" role="group" aria-label="Tampilan">
-              <a href={viewQs("grid")} aria-current={view === "grid" || undefined} aria-label="Tampilan grid"><GridIcon size={18} /></a>
-              <a href={viewQs("list")} aria-current={view === "list" || undefined} aria-label="Tampilan daftar"><ListIcon size={18} /></a>
-            </span>
-            <span style={{ marginLeft: "auto" }}><SortDropdown current={current} /></span>
-          </div>
-          {max ? <p className="meta">Harga maks: {rupiah(max)} · <a href="/catalog">reset</a></p> : null}
-          {shown.length ? (
-            view === "list"
-              ? <section className="rows" aria-label="Produk">{shown.map((p) => <ProductRow key={p.slug} p={p} />)}</section>
-              : <section className="grid" aria-label="Produk">{shown.map((p) => <ProductCard key={p.slug} p={p} />)}</section>
-          ) : (
-            <div className="empty-cart">
-              <strong>Tidak ada hasil.</strong>
-              <p className="meta">Coba kata kunci atau filter lain.</p>
-              <a className="btn" href="/catalog">Reset filter</a>
-            </div>
-          )}
-          {shown.length < list.length && (
-            <p style={{ marginTop: 16 }}><a className="btn btn-outline" href={pageQs(page + 1)}>Muat lagi ({list.length - shown.length} sisa) →</a></p>
-          )}
-        </div>
-      </div>
+      <Breadcrumb trail={[{ label: "Home", href: "/" }, { label: "Katalog" }]} />
+      <h1 style={{ margin: "4px 0 0" }}>Katalog</h1>
+      <CatalogClient />
     </>
   );
 }

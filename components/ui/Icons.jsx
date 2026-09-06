@@ -25,6 +25,7 @@ export const ShieldIcon = (p) => <Icon label="Aman" {...p} d="M12 3l7 3v5c0 5-3.
 export const ClockIcon = (p) => <Icon label="Waktu" {...p}><circle cx={12} cy={12} r={8} /><path d="M12 7v5l3 2" /></Icon>;
 export const GridIcon = (p) => <Icon label="Grid" {...p} d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" />;
 export const ListIcon = (p) => <Icon label="Daftar" {...p} d="M4 6h16M4 12h16M4 18h16" />;
+export const ShareIcon = (p) => <Icon label="Bagikan" {...p} d="M16 6l-4-4-4 4M12 2v14M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6" />;
 
 export const StarIcon = ({ size = 14, filled }) => (
   <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true"

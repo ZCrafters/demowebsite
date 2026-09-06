@@ -42,9 +42,22 @@ export function CheckoutFlow() {
   const [ship, setShip] = useState("reg");
   const [paid, setPaid] = useState(false);
   const [secs, setSecs] = useState(300);
+  const [coupon, setCoupon] = useState("");
+  const [couponApplied, setCouponApplied] = useState(null);
+  const [gift, setGift] = useState(false);
+  const [giftNote, setGiftNote] = useState("");
   const orderId = useMemo(() => "MRV-" + Math.random().toString(36).slice(2, 8).toUpperCase(), []);
   const shipCost = SHIP.find((s) => s.id === ship)?.cost || 0;
-  const total = subtotal + shipCost;
+  const discount = couponApplied?.type === "percent" ? Math.round(subtotal * couponApplied.value) : couponApplied?.type === "flat" ? couponApplied.value : 0;
+  const giftCost = gift ? 5000 : 0;
+  const total = Math.max(0, subtotal - discount) + shipCost + giftCost;
+
+  const applyCoupon = () => {
+    const code = coupon.trim().toUpperCase();
+    const COUPONS = { "MARVEILE10": { type: "percent", value: 0.1, label: "10% off" }, "HEMAT20K": { type: "flat", value: 20000, label: "Rp 20.000 off" } };
+    if (COUPONS[code]) { setCouponApplied({ code, ...COUPONS[code] }); }
+    else { setCouponApplied({ error: "Kupon tidak valid." }); }
+  };
 
   useEffect(() => {
     if (step !== 3 || paid) return;
@@ -138,6 +151,28 @@ export function CheckoutFlow() {
                   <input value={form.kodepos} onChange={set("kodepos")} onBlur={() => validateField("kodepos")} inputMode="numeric" maxLength={5} placeholder="12345" aria-invalid={!!errs.kodepos} />
                 </Field>
               </div>
+
+              <div className="coupon-row">
+                <label htmlFor="coupon" className="field-label">Kode promo (simulasi)</label>
+                <div className="coupon-input">
+                  <input id="coupon" type="text" value={coupon} onChange={(e) => setCoupon(e.target.value)}
+                    placeholder="MARVEILE10 atau HEMAT20K" autoComplete="off" />
+                  <button className="btn btn-outline" type="button" onClick={applyCoupon}>Pakai</button>
+                </div>
+                {couponApplied?.error && <span className="err" role="alert">⚠ {couponApplied.error}</span>}
+                {couponApplied?.label && <span className="coupon-ok">✓ {couponApplied.code} — {couponApplied.label}</span>}
+              </div>
+
+              <label className="gift-toggle">
+                <input type="checkbox" checked={gift} onChange={(e) => setGift(e.target.checked)} />
+                <span>Bungkus sebagai hadiah (+ Rp 5.000)</span>
+              </label>
+              {gift && (
+                <Field label="Catatan hadiah (opsional)">
+                  <input value={giftNote} onChange={(e) => setGiftNote(e.target.value)} maxLength={120} placeholder="Ucapan untuk penerima..." />
+                </Field>
+              )}
+
               <button className="btn" type="submit">Lanjut ke pengiriman →</button>
             </form>
           )}
@@ -184,7 +219,9 @@ export function CheckoutFlow() {
             </div>
           ))}
           <div className="order-line"><span>Subtotal</span><span>{rupiah(subtotal)}</span></div>
+          {discount > 0 && <div className="order-line order-discount"><span>Diskon {couponApplied.code}</span><span>− {rupiah(discount)}</span></div>}
           <div className="order-line"><span>Ongkir</span><span>{step >= 2 ? rupiah(shipCost) : "—"}</span></div>
+          {gift && <div className="order-line"><span>Bungkus hadiah</span><span>{rupiah(giftCost)}</span></div>}
           <div className="order-line"><span>Total</span><strong>{rupiah(total)}</strong></div>
         </aside>
       </div>

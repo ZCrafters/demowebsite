@@ -5,6 +5,7 @@ import { rupiah } from "../../lib/products";
 import { useCart } from "../cart/CartProvider";
 import { Rating } from "../ui/ProductCard";
 import { CheckIcon, ShieldIcon, TruckIcon } from "../ui/Icons";
+import { ShareButtons } from "./Share";
 
 const SWATCH = { Black: "#1c1917", White: "#ffffff", Cream: "#f3ead9", Ivory: "#fffff0", Choco: "#5b3a29", Grey: "#9aa0a6", Blue: "#3b6ea5", Maroon: "#7e2a3a", Pink: "#f2b8c6", Sage: "#9caf88", Green: "#3f6212", Midnight: "#1e2a4a", Lilac: "#c8b6e2", Yellow: "#f2d06b", Brown: "#7a4a21", Gray: "#9aa0a6", Khaki: "#b6a77a", Navy: "#22304a", Denim: "#4a6fa5", Pastel: "#f6dfe3" };
 
@@ -82,6 +83,8 @@ export function BuyBox({ p }) {
         <span style={{ display: "inline-flex", gap: 6, alignItems: "center" }}><TruckIcon size={18} /> Kirim 1–3 hari</span>
         <span style={{ display: "inline-flex", gap: 6, alignItems: "center" }}><ShieldIcon size={18} /> Retur 7 hari</span>
       </p>
+
+      <ShareButtons slug={p.slug} name={p.name} />
 
       <details className="acc" open>
         <summary>Detail Produk</summary>

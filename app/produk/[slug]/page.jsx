@@ -3,6 +3,7 @@ import { getProduct, getRelated, products } from "../../../lib/products";
 import { Gallery } from "../../../components/pdp/Gallery";
 import { BuyBox } from "../../../components/pdp/BuyBox";
 import { RelatedCarousel } from "../../../components/pdp/RelatedCarousel";
+import { ReviewSection } from "../../../components/pdp/ReviewSection";
 import { Breadcrumb } from "../../../components/ui/Chrome";
 
 export function generateStaticParams() {
@@ -27,6 +28,7 @@ export default function ProductDetail({ params }) {
         <Gallery images={p.images} name={p.name} />
         <BuyBox p={p} />
       </div>
+      <ReviewSection product={p} />
       <RelatedCarousel items={getRelated(p)} category={p.category} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Product", name: p.name,
