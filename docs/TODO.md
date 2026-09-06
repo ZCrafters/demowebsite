@@ -25,7 +25,13 @@
 - [x] Filter katalog `?cat=&size=&max=&sort=&page=` (GET form, tanpa JS) + kartu link ke PDP
 - [x] `npm run build` lolos 49 halaman
 
-## Demo GitHub
-- [x] `.gitignore` (node_modules, .next, .env*, *.xlsx kecuali audit)
-- [x] Commit + push `main → origin` (lanjut di bawah)
+## E-commerce full spec (Header/Home/PLP/PDP/Cart/Checkout/Footer)
+- [x] Token placeholder `--color-*`, breakpoint 375/768/1024/1440, tap 44px
+- [x] Header: sticky 68px + mega menu + search overlay terpisah + badge + mobile nav
+- [x] Home: hero 16:9 + grid kategori 3:4 + best seller carousel + new arrivals + promo
+- [x] PLP: sidebar + bottom-sheet + sort + grid 4/2/2 + badge + skeleton
+- [x] PDP: galeri zoom + size grid + swatch + sticky CTA + accordion + related
+- [x] Cart drawer + Checkout 3 step + QRIS simulasi (timer + sukses)
+- [x] Footer: bantuan/tentang/sosial/newsletter + ikon bayar + QRIS
+- [x] Build 61 halaman + smoke test 200 (/, /catalog, PDP, /checkout)
 - [ ] Import ke Vercel → deploy preview → tempel URL demo di sini: ____

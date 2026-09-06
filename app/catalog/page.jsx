@@ -1,16 +1,15 @@
-import products from "../../data/products.marveile.json";
+import { products, rupiah } from "../../lib/products";
+import { ProductCard } from "../../components/ui/ProductCard";
+import { FilterSidebar, SortDropdown } from "../../components/plp/Filters";
+import { FilterBottomSheet } from "../../components/plp/FilterBottomSheet";
 
-const rupiah = (v) =>
-  new Intl.NumberFormat("id-ID", { style: "currency", currency: "IDR", maximumFractionDigits: 0 }).format(v);
-
-const CATS = ["pants", "cutbray", "skort", "blazer", "dress", "tops", "blouse", "cardigan", "sweater", "atasan", "half-zip"];
-const SIZES = ["S", "M", "L", "XL"];
 const PER_PAGE = 24;
 
 export default function Catalog({ searchParams }) {
   const q = (searchParams?.q || "").toLowerCase();
   const cat = searchParams?.cat || "";
-  const size = searchParams?.size || "";
+  const sizes = (searchParams?.size || "").split(",").filter(Boolean);
+  const colors = (searchParams?.color || "").split(",").filter(Boolean);
   const max = parseInt(searchParams?.max || "", 10) || 0;
   const sort = searchParams?.sort || "featured";
   const page = Math.max(1, parseInt(searchParams?.page || "1", 10) || 1);
@@ -19,63 +18,60 @@ export default function Catalog({ searchParams }) {
     (p) =>
       (!q || `${p.name} ${p.category}`.toLowerCase().includes(q)) &&
       (!cat || p.category === cat) &&
-      (!size || (p.sizes || []).includes(size)) &&
+      (!sizes.length || sizes.some((s) => (p.sizes || []).includes(s))) &&
+      (!colors.length || colors.some((c) => (p.colors || []).includes(c))) &&
       (!max || p.price <= max)
   );
   if (sort === "price-asc") list = [...list].sort((a, b) => a.price - b.price);
-  if (sort === "price-desc") list = [...list].sort((a, b) => b.price - a.price);
-  if (sort === "hero") list = [...list].sort((a, b) => Number(b.heroFlag || false) - Number(a.heroFlag || false));
+  if (sort === "sold") list = [...list].sort((a, b) => b.sold - a.sold);
+  if (sort === "new") list = [...list].sort((a, b) => Number(b.isNew) - Number(a.isNew) || b.id - a.id);
 
+  const activeFilters = (cat ? 1 : 0) + sizes.length + colors.length + (max ? 1 : 0);
   const shown = list.slice(0, page * PER_PAGE);
-  const qs = (over = {}) => {
-    const s = new URLSearchParams({ ...(q ? { q } : {}), ...(cat ? { cat } : {}), ...(size ? { size } : {}), ...(max ? { max: String(max) } : {}), sort });
-    Object.entries(over).forEach(([k, v]) => (v ? s.set(k, v) : s.delete(k)));
+  const pageQs = (p) => {
+    const s = new URLSearchParams(searchParams);
+    p > 1 ? s.set("page", String(p)) : s.delete("page");
     const str = s.toString();
     return `/catalog${str ? `?${str}` : ""}`;
   };
+  const current = { q: searchParams?.q || "", cat, size: sizes.join(","), color: colors.join(","), max: searchParams?.max || "", sort };
 
   return (
     <>
-      <h1>Katalog ({list.length})</h1>
-      <form className="catalog-search" action="/catalog" method="get" role="search">
-        {cat && <input type="hidden" name="cat" value={cat} />}
-        {size && <input type="hidden" name="size" value={size} />}
-        {max ? <input type="hidden" name="max" value={max} /> : null}
-        <input type="hidden" name="sort" value={sort} />
-        <input id="catalog-search" name="q" type="search" defaultValue={searchParams?.q || ""}
-          placeholder="Cari: cutbray, satin, skort…" aria-label="Cari produk" />
-      </form>
-      <div className="pills" aria-label="Filter kategori">
-        <a className="pill" href={qs({ cat: "", page: "" })} aria-current={!cat || undefined}>Semua</a>
-        {CATS.map((c) => (
-          <a key={c} className="pill" href={qs({ cat: c, page: "" })} aria-current={cat === c || undefined}>{c}</a>
-        ))}
-      </div>
-      <div className="pills" aria-label="Filter ukuran">
-        {SIZES.map((s) => (
-          <a key={s} className="pill" href={qs({ size: size === s ? "" : s, page: "" })} aria-current={size === s || undefined}>{s}</a>
-        ))}
-      </div>
-      <div className="pills" aria-label="Urutkan">
-        {[["featured", "Pilihan"], ["hero", "Hero"], ["price-asc", "Termurah"], ["price-desc", "Termahal"]].map(([v, l]) => (
-          <a key={v} className="pill" href={qs({ sort: v, page: "" })} aria-current={sort === v || undefined}>{l}</a>
-        ))}
-      </div>
-      <section className="grid" style={{ marginTop: 14 }} aria-label="Produk">
-        {shown.map((p) => (
-          <a className="card" key={p.slug} href={`/produk/${p.slug}`}>
-            <img src={p.images?.[0]} alt={p.name} loading="lazy" />
-            <div className="info">
-              {p.heroFlag && <span className="tag">HERO</span>}
-              <strong>{p.name}</strong>
-              <span className="price">{rupiah(p.price)}</span>
-              <span className="meta">{p.category} · {(p.sizes || []).join("/")}</span>
+      <p style={{ fontSize: 12, color: "var(--color-muted)" }}>Home / <strong>Katalog</strong></p>
+      <h1 style={{ margin: "4px 0 0" }}>Katalog{cat ? ` — ${cat}` : ""}</h1>
+      <div className="plp" style={{ marginTop: 12 }}>
+        <FilterSidebar current={current} />
+        <div>
+          <form className="catalog-search" action="/catalog" method="get" role="search">
+            {cat && <input type="hidden" name="cat" value={cat} />}
+            {sizes.map((s) => <input key={s} type="hidden" name="size" value={s} />)}
+            <input type="hidden" name="sort" value={sort} />
+            <input id="catalog-search" name="q" type="search" defaultValue={searchParams?.q || ""}
+              placeholder="Cari: cutbray, satin, skort…" aria-label="Cari produk" />
+          </form>
+          <div className="plp-bar">
+            <FilterBottomSheet current={current} count={activeFilters} />
+            <span className="count" role="status">{list.length} produk</span>
+            <span style={{ marginLeft: "auto" }}><SortDropdown current={current} /></span>
+          </div>
+          {max ? <p className="meta">Harga maks: {rupiah(max)} · <a href="/catalog">reset</a></p> : null}
+          {shown.length ? (
+            <section className="grid" aria-label="Produk">
+              {shown.map((p) => <ProductCard key={p.slug} p={p} />)}
+            </section>
+          ) : (
+            <div className="empty-cart">
+              <strong>Tidak ada hasil.</strong>
+              <p className="meta">Coba kata kunci atau filter lain.</p>
+              <a className="btn" href="/catalog">Reset filter</a>
             </div>
-          </a>
-        ))}
-      </section>
-      {shown.length === 0 && <p>Tidak ada hasil. <a href="/catalog">Reset →</a></p>}
-      {shown.length < list.length && <p style={{ marginTop: 16 }}><a className="btn" href={qs({ page: String(page + 1) })}>Muat lagi ({list.length - shown.length} sisa) →</a></p>}
+          )}
+          {shown.length < list.length && (
+            <p style={{ marginTop: 16 }}><a className="btn btn-outline" href={pageQs(page + 1)}>Muat lagi ({list.length - shown.length} sisa) →</a></p>
+          )}
+        </div>
+      </div>
     </>
   );
 }
