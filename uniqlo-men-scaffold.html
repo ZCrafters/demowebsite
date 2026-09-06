@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Men — Scaffold Terinspirasi Uniqlo ID (Placeholder)</title>
+<meta name="description" content="Scaffold satu-file terinspirasi struktur halaman kategori menswear: nav, koleksi editorial, lineup produk, index. Semua konten placeholder original." />
+<style>
+  :root{
+    --canvas:#f7f5f1; --surface:#ffffff; --ink:#1a1a1a; --muted:#6b6b6b;
+    --border:#e5e0d8; --accent:#b91c1c; --accent-dark:#871111;
+    --max:1240px; --radius:14px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Helvetica Neue",Arial,system-ui,sans-serif;background:var(--canvas);color:var(--ink);line-height:1.5}
+  a{color:inherit;text-decoration:none}
+  .top-strip{background:#111;color:#fff;font-size:12px;text-align:center;padding:8px 12px;letter-spacing:.04em}
+  header{position:sticky;top:0;z-index:20;background:var(--surface);border-bottom:1px solid var(--border)}
+  .nav{max-width:var(--max);margin:0 auto;display:flex;align-items:center;gap:20px;padding:12px 20px}
+  .logo{font-weight:900;font-size:22px;letter-spacing:.02em;border:2px solid var(--accent);color:var(--accent);padding:2px 8px;border-radius:4px}
+  .nav-links{display:flex;gap:16px;font-size:14px;font-weight:600}
+  .nav-links a{padding:8px 10px;border-radius:8px}
+  .nav-links a.active,.nav-links a:hover{background:#f3ede6}
+  .nav-actions{margin-left:auto;display:flex;gap:10px;align-items:center}
+  .search{border:1px solid var(--border);border-radius:999px;padding:8px 14px;font-size:14px;background:#fafafa;min-width:200px}
+  .icon-btn{border:1px solid var(--border);background:#fff;border-radius:999px;width:40px;height:40px;display:grid;place-items:center;cursor:pointer}
+  main{max-width:var(--max);margin:0 auto;padding:0 20px 48px}
+  .crumbs{font-size:12px;color:var(--muted);padding:16px 0}
+  .hero{display:grid;grid-template-columns:1.4fr .8fr;gap:16px;margin:8px 0 24px}
+  .hero-main{position:relative;border-radius:var(--radius);overflow:hidden;background:#ddd;min-height:340px;display:flex;align-items:flex-end}
+  .hero-main img,.tile img,.card img{width:100%;height:100%;object-fit:cover;display:block}
+  .hero-main img{position:absolute;inset:0}
+  .hero-copy{position:relative;padding:24px;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.65));width:100%}
+  .hero-copy .kicker{font-size:12px;letter-spacing:.18em;font-weight:700}
+  .hero-copy h1{margin:6px 0;font-size:clamp(28px,4vw,46px);line-height:1.05;letter-spacing:-.02em}
+  .btn{display:inline-block;background:var(--accent);color:#fff;font-weight:700;padding:11px 18px;border-radius:999px;font-size:14px;border:0;cursor:pointer}
+  .btn:hover{background:var(--accent-dark)}
+  .hero-side{display:grid;gap:16px}
+  .tile{position:relative;border-radius:var(--radius);overflow:hidden;min-height:162px;background:#ddd;display:flex;align-items:flex-end}
+  .tile span{position:relative;color:#fff;font-weight:800;padding:14px;font-size:18px;background:linear-gradient(transparent,rgba(0,0,0,.6));width:100%}
+  .section-head{display:flex;align-items:baseline;justify-content:space-between;margin:30px 0 14px}
+  .section-head h2{margin:0;font-size:22px;letter-spacing:-.01em}
+  .section-head a{font-size:14px;font-weight:700;color:var(--accent)}
+  .coll-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .coll{border-radius:var(--radius);overflow:hidden;background:var(--surface);border:1px solid var(--border)}
+  .coll .ph{aspect-ratio:4/3;background:#e8e2d8}
+  .coll div:last-child{padding:12px 14px}
+  .coll strong{display:block}
+  .coll small{color:var(--muted)}
+  .lineup{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px}
+  .lineup a{background:#faf8f4;border:1px solid var(--border);border-radius:10px;padding:12px 8px;text-align:center;font-size:13px;font-weight:700}
+  .lineup a:hover{background:#f3ede6}
+  .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
+  .card .img{aspect-ratio:3/4;background:#eee}
+  .card .info{padding:12px 14px;display:grid;gap:6px}
+  .price{font-weight:800}
+  .old{color:var(--muted);text-decoration:line-through;font-weight:400;font-size:13px;margin-left:8px}
+  .tag{font-size:11px;font-weight:800;letter-spacing:.08em;color:var(--accent)}
+  .meta{font-size:12px;color:var(--muted)}
+  .index-columns{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .index-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px}
+  .index-box h3{margin:0 0 10px;font-size:15px}
+  .index-box ul{margin:0;padding:0;list-style:none;display:grid;gap:8px;font-size:14px;color:#333}
+  footer{border-top:1px solid var(--border);background:var(--surface);margin-top:20px}
+  .foot{max-width:var(--max);margin:0 auto;padding:24px 20px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+  @media(max-width:900px){
+    .hero{grid-template-columns:1fr}
+    .coll-grid,.grid{grid-template-columns:repeat(2,1fr)}
+    .lineup{grid-template-columns:repeat(3,1fr)}
+    .index-columns{grid-template-columns:1fr}
+    .search{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="top-strip">SCAFFOLD PLACEHOLDER — terinspirasi struktur, bukan salinan Uniqlo. Semua teks &amp; gambar dummy.</div>
+<header>
+  <nav class="nav" aria-label="Navigasi utama">
+    <a class="logo" href="#">BRAND.</a>
+    <div class="nav-links">
+      <a href="#">Wanita</a>
+      <a class="active" href="#" aria-current="page">Pria</a>
+      <a href="#">Anak</a>
+      <a href="#">Bayi</a>
+    </div>
+    <div class="nav-actions">
+      <span class="search">Cari: kemeja, jeans, sweat…</span>
+      <button class="icon-button icon-btn" aria-label="Akun">◯</button>
+      <button class="icon-btn" aria-label="Keranjang">▭</button>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <div class="crumbs">Home / Pria / <strong>Scaffold</strong></div>
+
+  <section class="hero" aria-label="Sorotan koleksi">
+    <div class="hero-main">
+      <img src="https://picsum.photos/seed/mens-hero/1200/700" alt="Foto placeholder koleksi menswear" loading="eager" />
+      <div class="hero-copy">
+        <div class="kicker">KOLEKSI MUSIM BARU</div>
+        <h1>Esensial harian pria, dipoles ulang.</h1>
+        <p style="margin:0 0 14px;max-width:52ch">Struktur meniru pola Uniqlo Men: satu hero besar + dua tile pendukung untuk koleksi kapsul.</p>
+        <a class="btn" href="#lineup">Lihat lineup →</a>
+      </div>
+    </div>
+    <div class="hero-side">
+      <a class="tile" href="#koleksi">
+        <img src="https://picsum.photos/seed/mens-side1/600/400" alt="" loading="lazy" style="position:absolute;inset:0" />
+        <span>Koleksi Kapsul A →</span>
+      </a>
+      <a class="tile" href="#koleksi">
+        <img src="https://picsum.photos/seed/mens-side2/600/400" alt="" loading="lazy" style="position:absolute;inset:0" />
+        <span>Office Edit →</span>
+      </a>
+    </div>
+  </section>
+
+  <div class="section-head" id="lineup">
+    <h2>Shop the lineup</h2>
+    <a href="#katalog">Lihat semua →</a>
+  </div>
+  <nav class="lineup" aria-label="Lineup kategori">
+    <a href="#katalog">Luaran</a><a href="#katalog">Rajut</a><a href="#katalog">Kemeja</a>
+    <a href="#katalog">T-Shirt</a><a href="#katalog">Bawahan</a><a href="#katalog">Aksesoris</a>
+  </nav>
+
+  <div class="section-head" id="koleksi">
+    <h2>Blok editorial koleksi</h2>
+    <a href="#katalog">Indeks produk →</a>
+  </div>
+  <section class="coll-grid">
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-tee/600/450" alt="" loading="lazy" /></div><div><strong>Koleksi T</strong><small>Kaos esensial harian</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-jeans/600/450" alt="" loading="lazy" /></div><div><strong>Denim Lurus</strong><small>Potongan clean, selvedge look</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-office/600/450" alt="" loading="lazy" /></div><div><strong>Back to Work</strong><small>Office outfit bebas kusut</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-sweat/600/450" alt="" loading="lazy" /></div><div><strong>Koleksi Sweat</strong><small>Rileks tapi rapi</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-shirt/600/450" alt="" loading="lazy" /></div><div><strong>Kemeja Kasual</strong><small>Broadcloth &amp; flannel</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-pants/600/450" alt="" loading="lazy" /></div><div><strong>Celana Rileks</strong><small>Easy pants &amp; chino</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-shorts/600/450" alt="" loading="lazy" /></div><div><strong>Celana Pendek</strong><small>Untuk cuaca panas</small></div></article>
+    <article class="coll"><div class="ph"><img src="https://picsum.photos/seed/coll-outer/600/450" alt="" loading="lazy" /></div><div><strong>Outerwear</strong><small>New arrivals ringan</small></div></article>
+  </section>
+
+  <div class="section-head" id="katalog">
+    <h2>Katalog (contoh 8 SKU dummy)</h2>
+    <a href="#">Filter &amp; urutkan →</a>
+  </div>
+  <section class="grid" aria-label="Contoh produk">
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-1/600/800" alt="Produk dummy 1" loading="lazy" /></div><div class="info"><span class="tag">NEW</span><strong>Easy Pants Dummy — Slim</strong><span class="price">Rp199.000 <s class="old">Rp249.000</s></span><span class="meta">★★★★★ · 4 warna · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-2/600/800" alt="Produk dummy 2" loading="lazy" /></div><div class="info"><span class="tag">BEST SELLER</span><strong>Denim Lurus Dummy</strong><span class="price">Rp399.000</span><span class="meta">★★★★☆ · 3 warna · 27–34</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-3/600/800" alt="Produk dummy 3" loading="lazy" /></div><div class="info"><span class="tag">OFFICE</span><strong>Kemeja Broadcloth Dummy</strong><span class="price">Rp299.000</span><span class="meta">★★★★★ · Putih/Biru · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-4/600/800" alt="Produk dummy 4" loading="lazy" /></div><div class="info"><span class="tag">NEW</span><strong>Sweat Pullover Dummy</strong><span class="price">Rp249.000</span><span class="meta">★★★★☆ · Abu/Hitam · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-5/600/800" alt="Produk dummy 5" loading="lazy" /></div><div class="info"><span class="tag">CASUAL</span><strong>Kaos Kerah Dummy</strong><span class="price">Rp149.000</span><span class="meta">★★★★★ · 5 warna · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-6/600/800" alt="Produk dummy 6" loading="lazy" /></div><div class="info"><span class="tag">SHORTS</span><strong>Celana Pendek Dummy</strong><span class="price">Rp179.000</span><span class="meta">★★★★☆ · Khaki/Hitam · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-7/600/800" alt="Produk dummy 7" loading="lazy" /></div><div class="info"><span class="tag">OUTER</span><strong>Trucker Jacket Dummy</strong><span class="price">Rp499.000</span><span class="meta">★★★★★ · Denim · S–XL</span></div></article>
+    <article class="card"><div class="img"><img src="https://picsum.photos/seed/sku-8/600/800" alt="Produk dummy 8" loading="lazy" /></div><div class="info"><span class="tag">KNIT</span><strong>Cardigan Rajut Dummy</strong><span class="price">Rp329.000</span><span class="meta">★★★★☆ · Cream/Grey · S–XL</span></div></article>
+  </section>
+
+  <div class="section-head">
+    <h2>Index produk (pola SEO Uniqlo)</h2>
+    <a href="#">Semua index →</a>
+  </div>
+  <section class="index-columns">
+    <div class="index-box"><h3>Atasan</h3><ul><li>Kaos polos pria</li><li>Kemeja kasual</li><li>Sweat &amp; hoodie</li><li>Rajut ringan</li></ul></div>
+    <div class="index-box"><h3>Bawahan</h3><ul><li>Celana chino</li><li>Celana kantor</li><li>Jeans lurus</li><li>Celana pendek</li></ul></div>
+    <div class="index-box"><h3>Luaran &amp; Aksesoris</h3><ul><li>Jaket ringan</li><li>Blazer kasual</li><li>Ikat pinggang</li><li>Kaos kaki</li></ul></div>
+  </section>
+</main>
+
+<footer>
+  <div class="foot">
+    <span>© 2026 scaffold placeholder — bukan afiliasi Uniqlo.</span>
+    <span>1 file HTML · CSS inline · gambar picsum dummy.</span>
+    <span>Bisa dipakai sebagai referensi IA untuk Marveile.</span>
+  </div>
+</footer>
+</body>
+</html>

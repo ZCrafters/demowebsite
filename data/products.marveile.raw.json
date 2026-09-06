@@ -1,0 +1,969 @@
+[
+  {
+    "id": 1,
+    "slug": "alinea-cardigan",
+    "name": "Alinea Cardigan",
+    "sourceName": "NIGOO Alinea Cardigan Rajut Knitwear...",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 26,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0u-mb7tz3as8i3d6c",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0k-mb7tz3as9wntfc",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0h-mb7tz3asbb89bb",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0q-mb7tz3ascpspcf",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0i-mb7u34q956vy88"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Alinea Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "poppy-cardigan",
+    "name": "Poppy Cardigan",
+    "sourceName": "Nigoo Poppy Cardigan Wanita Rajut Viscose...",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 54,
+    "rating": 5,
+    "soldLabel": "2RB+",
+    "soldCount": 2000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224t-miodhe11296u08",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224t-miodhe113nraf4",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224o-miodhe1152bq2c",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-miodhe116gw66a",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224y-miodhe117vgmca"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Poppy Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "lily-sweater",
+    "name": "Lily Sweater",
+    "sourceName": "NIGOO Lily Sweater Rajut Knitwear Wanita",
+    "price": 219900,
+    "originalPrice": null,
+    "discountPercent": 56,
+    "rating": 4.8,
+    "soldLabel": "22",
+    "soldCount": 22,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztl-msb7ook3yvpe60",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztm-msb7ook40a9ud4",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zti-msb7ook41oua8a",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zto-msb86e8bri8696"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Lily Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      4,
+      34
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "choco-sweater",
+    "name": "Choco Sweater",
+    "sourceName": "NIGOO Choco Sweater Rajut Knitwear...",
+    "price": 219900,
+    "originalPrice": null,
+    "discountPercent": 56,
+    "rating": 4.9,
+    "soldLabel": "17",
+    "soldCount": 17,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztf-msb7fwylio7be9",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zte-msb7fwylk2rred",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztf-msb7fwyllhc7e5",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztk-msb7fwylmvwn7a",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zth-msb7fwylpp1jb6"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Choco Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      5,
+      35
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "zoe-half-zip-knitwear-cable-sweater",
+    "name": "Zoe Half Zip Knitwear Cable Sweater",
+    "sourceName": "NIGOO Zoe Half Zip Knitwear Cable Sweater...",
+    "price": 219900,
+    "originalPrice": null,
+    "discountPercent": 37,
+    "rating": 4.9,
+    "soldLabel": "4RB+",
+    "soldCount": 4000,
+    "soldCountIsLowerBound": true,
+    "category": "half-zip",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0k-mcvzetdjhg839e",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0h-mcvzetdjg1nn8d",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0g-mcvzetdjiusj8e",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0t-mcvzetdjk9czd0",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0t-mcvzetdjlnxf4c",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0p-mcvzetdjn2hvd2"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Zoe Half Zip Knitwear Cable Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "bianca-cable-sweater",
+    "name": "Bianca Cable Sweater",
+    "sourceName": "NIGOO Bianca Cable Sweater Rajut Knitwear...",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 31,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lyndodg98tuw97",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lyndodg8yzzhc3",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r990-lyndodg8w6uldb",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lyndodg90ejxb6",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lyndodg8xlf10a",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lyndodg91t4d45"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Bianca Cable Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "alira-sweater",
+    "name": "Alira Sweater",
+    "sourceName": "NIGOO Alira Sweater Rajut Knitwear Wanita...",
+    "price": 189900,
+    "originalPrice": null,
+    "discountPercent": 53,
+    "rating": 4.8,
+    "soldLabel": "426",
+    "soldCount": 426,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wj-monshodzxmo06a",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wg-monshoe00fsw38",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wq-monshoe01udc1d",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wq-monshoe038xsa2"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Alira Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "dalila-cardigan",
+    "name": "Dalila Cardigan",
+    "sourceName": "Nigoo Dalila Cardigan Rajut Knitwear Wanita...",
+    "price": 149900,
+    "originalPrice": null,
+    "discountPercent": 40,
+    "rating": 4.9,
+    "soldLabel": "3RB+",
+    "soldCount": 3000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk1-m9vhzy40uahe42",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m9vhzy40vp1u12",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk6-m9vhzy40x3ma9a",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m9vhzy40yi6qd8",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkd-m9vhzy40zwr622"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Dalila Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      9
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "elva-oversize-knit-sweater",
+    "name": "Elva Oversize Knit Sweater",
+    "sourceName": "NIGOO Elva Oversize Knit Sweater Rajut Wanita",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 38,
+    "rating": 4.9,
+    "soldLabel": "1RB+",
+    "soldCount": 1000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mezxrs38x2q1e0",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zth-mezxrs38yhah21",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mezxrs38zvuxa0",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mezxrs391afdad",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mezxrs392ozt5e",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mezxrs3943k991"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Elva Oversize Knit Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      10
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "lolly-cardigan",
+    "name": "Lolly Cardigan",
+    "sourceName": "NIGOO Lolly Cardigan Rajut Knitwear Wanita",
+    "price": 204900,
+    "originalPrice": null,
+    "discountPercent": 59,
+    "rating": 5,
+    "soldLabel": "10",
+    "soldCount": 10,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mro2r0d9bls208",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mro2r0d9d0ci1a",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztk-mro2r0d9eewy5a",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mro2r0d9fthebc"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Lolly Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      11,
+      36
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "miria-oversize-top",
+    "name": "Miria Oversize Top",
+    "sourceName": "Nigoo Miria Oversize Top Knit Acrylic Wanita",
+    "price": 159900,
+    "originalPrice": null,
+    "discountPercent": 30,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "atasan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbka-m6nvfwpk9edld8",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk0-m6nvfwpkasy13a",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk9-m6nvfwpkc7ih24",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk2-m6nvfwpkf0ndb4",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m6nvfwpkdm2x3a",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m6nvfwpkgf7t13"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Miria Oversize Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      12
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "olive-cardigan",
+    "name": "Olive Cardigan",
+    "sourceName": "NIGOO Olive Cardigan Knitwear Wanita",
+    "price": 149900,
+    "originalPrice": null,
+    "discountPercent": 44,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lzxjuglo9ryz25",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r992-lzxjuglodzobc6",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lzxjuglob6jfad",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lzxjuglofe8r09",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lzxjuglocl3v9c",
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lzxjuglogst774"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Olive Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      13
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "noa-knit-top",
+    "name": "Noa Knit Top",
+    "sourceName": "NIGOO Noa Knit Top Knitwear Atasan Wanita",
+    "price": 190900,
+    "originalPrice": null,
+    "discountPercent": 45,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "atasan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztk-mfcj7eb7i77s24",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0k-mdcvpu32kp3sc0",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0s-mdcvpu32m3o843",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-mdcvpu329gk8cd",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0s-mdcwdfoixxdo07",
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0l-mdd6felvrc5873"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Noa Knit Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      14
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "mimi-cardigan",
+    "name": "Mimi Cardigan",
+    "sourceName": "NIGOO Mimi Cardigan Rajut Knitwear Wanita",
+    "price": 239900,
+    "originalPrice": null,
+    "discountPercent": 56,
+    "rating": 4.9,
+    "soldLabel": "39",
+    "soldCount": 39,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-msb8ex3ugd1i90",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztc-msb8ex47py4qb5",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-msb8ex47rcp659",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztn-msb8ex47sr9ma9",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztl-msb8ex47u5u26e"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Mimi Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      15,
+      33
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "orchi-cardigan",
+    "name": "Orchi Cardigan",
+    "sourceName": "NIGOO Orchi Cardigan Bunga Knitwear Wanita",
+    "price": 229900,
+    "originalPrice": null,
+    "discountPercent": 49,
+    "rating": 4.9,
+    "soldLabel": "304",
+    "soldCount": 304,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wk-mmn5l6e5imm97e",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wq-mmn5l6e5k16p79",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wi-mmn5l6e5lfr53b",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wo-mmn5l6e5mubl3a"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Orchi Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      16
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "ayla-cardigan",
+    "name": "Ayla Cardigan",
+    "sourceName": "NIGOO Ayla Cardigan Rajut Knitwear Wanita",
+    "price": 229900,
+    "originalPrice": null,
+    "discountPercent": 53,
+    "rating": 5,
+    "soldLabel": "258",
+    "soldCount": 258,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztl-mq98zo7omrd7cb",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zto-mq98zo7oo5xn15",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mq98zo7opki347",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mq98zo7oqz2j8c",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mq98zo7osdmzba"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Ayla Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      17
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "petali-cardigan",
+    "name": "Petali Cardigan",
+    "sourceName": "Nigoo Petali Cardigan Wanita Rajut Viscose All...",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 56,
+    "rating": 4.9,
+    "soldLabel": "5RB+",
+    "soldCount": 5000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mr9zj8d2v4si39",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zti-mr9zj8cx0fls57",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zto-mr9zj8cx1u6851",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztn-mr9zj8cx38qo3e",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztk-mr9zj8cx4nb43d"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Petali Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      18
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "yori-stripe-cardigan",
+    "name": "Yori Stripe Cardigan",
+    "sourceName": "NIGOO Yori Stripe Cardigan Rajut Knitwear...",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 50,
+    "rating": 4.7,
+    "soldLabel": "181",
+    "soldCount": 181,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wo-mont9pr68lcbc8",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wp-mont9pr69zwree",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wi-mont9pr6beh701",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wg-mont9pr6ct1n38"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Yori Stripe Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      19
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "finola-cable-cardigan",
+    "name": "Finola Cable Cardigan",
+    "sourceName": "NIGOO Finola Cable Cardigan Knitwear Wanita",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 33,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rase-m2kwa3fylj9x13",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m2kwa3fymxud58",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m2kwa3fyocet9e",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m2kwa3fypqz9c3",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m2kwa3fyr5jp5f",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m2kwa3fysk45ac"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Finola Cable Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      20
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "rosie-highneck-knit-cardigan",
+    "name": "Rosie Highneck Knit.Cardigan",
+    "sourceName": "NIGOO Rosie Highneck Knit.Cardigan...",
+    "price": 219900,
+    "originalPrice": null,
+    "discountPercent": 55,
+    "rating": 4.9,
+    "soldLabel": "225",
+    "soldCount": 225,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mq99b5q66by9b5",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mq99b5q67qip78",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mq99b5q6953504",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mq99b5q6ajnlba",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mq99b5q6by81a9",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zth-mq99b5q6dcsh4a"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Rosie Highneck Knit.Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      21
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "linetta-polo-sweater",
+    "name": "Linetta Polo Sweater",
+    "sourceName": "NIGOO Linetta Polo Sweater Knitwear Atasan...",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 43,
+    "rating": 4.9,
+    "soldLabel": "8RB+",
+    "soldCount": 8000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224x-mgrnr91wp7v314",
+      "https://down-id.img.susercontent.com/file/id-11134207-82250-mgrnr91wqmfj34",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-mgrnr91ws0zzea",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224q-mgrnr91wtfkfcd",
+      "https://down-id.img.susercontent.com/file/id-11134207-82250-mgrnr91wuu4vdb",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224y-mgrny3utkwso75"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Linetta Polo Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      22
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "nomi-cardigan",
+    "name": "Nomi Cardigan",
+    "sourceName": "NIGOO Nomi Cardigan Rajut Polos Knitwear...",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 50,
+    "rating": 4.9,
+    "soldLabel": "910",
+    "soldCount": 910,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wk-monsry5mo00b77",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wm-monsry5mpekr9e",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wk-monsry5mqt57e9",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wu-monsyielzea559"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Nomi Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      23
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "cami-top",
+    "name": "Cami Top",
+    "sourceName": "NIGOO Cami Top Knitwear Atasan Rajut...",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 64,
+    "rating": 4.9,
+    "soldLabel": "341",
+    "soldCount": 341,
+    "soldCountIsLowerBound": false,
+    "category": "atasan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mro2hidinuh3e3",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zth-mro2hidip91j02",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zth-mro2hidiqnlzd7",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mro2hidis26ff7",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mro2hiditgqv22",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mro2hidiuvbbae"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Cami Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "gradia-oversize-sweater",
+    "name": "Gradia Oversize Sweater",
+    "sourceName": "NIGOO Gradia Oversize Sweater Rajut...",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 50,
+    "rating": 5,
+    "soldLabel": "5RB+",
+    "soldCount": 5000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224q-mhllav486z9ed6",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224o-mhllav47j3m0cc",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224t-mhllav47ki6gc3",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224t-mhllav47lwqw1d",
+      "https://down-id.img.susercontent.com/file/id-11134207-82251-mhllav47nbbc72"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Gradia Oversize Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      25
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "dotty-cardigan",
+    "name": "Dotty Cardigan",
+    "sourceName": "NIGOO Dotty Cardigan Polkadot Knitwear Wanita",
+    "price": 229900,
+    "originalPrice": null,
+    "discountPercent": 41,
+    "rating": 4.9,
+    "soldLabel": "7RB+",
+    "soldCount": 7000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224w-miocmfdm0k5j74",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224r-miocmfdm1ypzb8",
+      "https://down-id.img.susercontent.com/file/id-11134207-82252-miocmfdm3daf50",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224u-miocmfdm4ruv39",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224u-miocmfdm66fb9b"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Dotty Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      26
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "anggrea-knit-cardigan",
+    "name": "Anggrea Knit Cardigan",
+    "sourceName": "Nigoo Anggrea Knit Cardigan Wanita Viscose...",
+    "price": 229900,
+    "originalPrice": null,
+    "discountPercent": 49,
+    "rating": 5,
+    "soldLabel": "2RB+",
+    "soldCount": 2000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wh-mmn56mrhqxae55",
+      "https://down-id.img.susercontent.com/file/id-11134207-822ws-mmn56mrhsbuuc0",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wo-mmn5qt1pslc5e6",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wu-mmn56mrhv4zq5d"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Anggrea Knit Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      27
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "daisy-cardigan",
+    "name": "Daisy Cardigan",
+    "sourceName": "Nigoo Daisy Cardigan Rajut Knitwear Wanita...",
+    "price": 149900,
+    "originalPrice": null,
+    "discountPercent": 40,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m1qr6qkmbknwfb",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m1qr6qkmcz8c29",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rash-m1qr6qkmedss2d",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasg-m1qr6qkmfsd80a",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m1qr6qkmh6xoea",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m1qr6qkmili4db"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Daisy Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      28
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "josie-sweater",
+    "name": "Josie Sweater",
+    "sourceName": "Nigoo Josie Sweater Oversize Knit Acrylic Wanita",
+    "price": 139900,
+    "originalPrice": null,
+    "discountPercent": 44,
+    "rating": 4.9,
+    "soldLabel": "10RB+",
+    "soldCount": 10000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m73fb2ox9u9oe5",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbka-m73fb2oxb8u448",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkd-m73fb2oxcnek96",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk2-m73fb2oxe1z081",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m73fb2oxfgjg0a"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Josie Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      29
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "arlen-sweater",
+    "name": "Arlen Sweater",
+    "sourceName": "Nigoo Arlen Sweater Rajut Knitwear Wanita",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 49,
+    "rating": 4.9,
+    "soldLabel": "2RB+",
+    "soldCount": 2000,
+    "soldCountIsLowerBound": true,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224p-mk51asdr68le69",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224q-mk51asdr7n5u50",
+      "https://down-id.img.susercontent.com/file/id-11134207-82250-mk51asdr91qa93",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-mk51asdragaqee",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224r-mk51asdrbuv673"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Arlen Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      30
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "senna-stripe-sweater",
+    "name": "Senna Stripe Sweater",
+    "sourceName": "NIGOO Senna Stripe Sweater Rajut Knitwear...",
+    "price": 189900,
+    "originalPrice": null,
+    "discountPercent": 53,
+    "rating": 4.9,
+    "soldLabel": "239",
+    "soldCount": 239,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wg-monsyiehovtabb",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wh-monsyiehqadqe5",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wp-monsyiehroy674",
+      "https://down-id.img.susercontent.com/file/id-11134207-822wt-monsyieht3im6b"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Senna Stripe Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": [
+      31
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "erin-top-sweater",
+    "name": "Erin Top Sweater",
+    "sourceName": "NIGOO Erin Top Sweater Atasan Knitwear wanita",
+    "price": 129900,
+    "originalPrice": null,
+    "discountPercent": 46,
+    "rating": 4.9,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkc-m98if59khqst64",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkb-m98if59kj5d99b",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk9-m98if59kkjxp22",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbka-m98if59klyi5f9",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m98if59knd2lce"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Erin Top Sweater, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  },
+  {
+    "id": 32,
+    "slug": "tessa-henley-knit-top",
+    "name": "Tessa Henley Knit Top",
+    "sourceName": "NIGOO Tessa Henley Knit Top Knitwear Wanita",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 59,
+    "rating": 5,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "atasan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mq98p1dh807605",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mq98p1dh9erm79",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztn-mq98p1dhatc2ce",
+      "https://down-id.img.susercontent.com/file/id-11134207-81zte-mq98p1dhc7wi78",
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mq98p1dhdmgydf"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Tessa Henley Knit Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  },
+  {
+    "id": 33,
+    "slug": "yuri-cardigan",
+    "name": "Yuri Cardigan",
+    "sourceName": "NIGOO Yuri Cardigan Rajut Knitwear Wanita",
+    "price": 179900,
+    "originalPrice": null,
+    "discountPercent": 36,
+    "rating": 4.9,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m627pk2maf9vb2",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rash-m627pk2mbtub66",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m627pk2md8er43",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m627pk2memz759",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasm-m627pk2mg1jn78"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Yuri Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  },
+  {
+    "id": 34,
+    "slug": "rhea-cardigan",
+    "name": "Rhea Cardigan",
+    "sourceName": "NIGOO Rhea Cardigan Rajut Knitwear Wanita",
+    "price": 199900,
+    "originalPrice": null,
+    "discountPercent": 43,
+    "rating": 4.9,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "cardigan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224r-mk51k3psjz0obb",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-mk51k3psldl4a9",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224w-mk51k3psms5kae",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-mk51k3pso6q026"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Rhea Cardigan, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  },
+  {
+    "id": 35,
+    "slug": "selline-knit-top",
+    "name": "Selline Knit Top",
+    "sourceName": "NIGOO Selline Knit Top Knitwear Wanita",
+    "price": 149900,
+    "originalPrice": null,
+    "discountPercent": 40,
+    "rating": 4.9,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "atasan",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m8aa1ktre0su3d",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkc-m8aa1ktrffdafa",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbka-m8aa1ktrgtxq3c",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m8aa1ktri8i6ca",
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk6-m8aa1ktrjn2mc3"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Selline Knit Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  },
+  {
+    "id": 36,
+    "slug": "vero-sweater-knit-cable-top",
+    "name": "Vero Sweater Knit Cable Top",
+    "sourceName": "NIGOO Vero Sweater Knit Cable Top Atasan Rajut Wanita",
+    "price": 389900,
+    "originalPrice": null,
+    "discountPercent": 0,
+    "rating": 5,
+    "soldLabel": "Baru",
+    "soldCount": 0,
+    "soldCountIsLowerBound": false,
+    "category": "sweater",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224u-mg7veukfg0zt26",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224w-mg7veukfhfk944",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224z-mg7veukfiu4p3b",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224s-mg7veukfk8p520",
+      "https://down-id.img.susercontent.com/file/id-11134207-8224y-mg7veukfln9lf4"
+    ],
+    "variants": [],
+    "stock": null,
+    "description": "Vero Sweater Knit Cable Top, bagian dari koleksi rajut wanita Nigoo. Padukan dengan pilihan pakaian harianmu.",
+    "sourceRows": []
+  }
+]

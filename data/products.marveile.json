@@ -1,0 +1,948 @@
+[
+  {
+    "id": 1001,
+    "slug": "kylie-cutbray-highwaist",
+    "name": "Kylie Cutbray Highwaist Pants",
+    "price": 219000,
+    "category": "cutbray",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Semi Wool",
+    "colors": [
+      "Black",
+      "Ivory",
+      "Choco",
+      "Cream"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-kylie/600/800"
+    ],
+    "heroFlag": true,
+    "source": "shopee-observed",
+    "provisional": true
+  },
+  {
+    "id": 1002,
+    "slug": "gigi-cutbray-highwaist",
+    "name": "Gigi Cutbray Highwaist Pants",
+    "price": 219000,
+    "category": "cutbray",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Semi Wool",
+    "colors": [
+      "Black",
+      "Cream"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-gigi/600/800"
+    ],
+    "heroFlag": true,
+    "source": "shopee-observed",
+    "provisional": true
+  },
+  {
+    "id": 1003,
+    "slug": "gion-satin-pants",
+    "name": "Gion Satin Pants Slim Highwaist",
+    "price": 229000,
+    "category": "pants",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Satin",
+    "colors": [
+      "Black",
+      "Champagne"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-gion/600/800"
+    ],
+    "heroFlag": true,
+    "source": "shopee-observed",
+    "provisional": true
+  },
+  {
+    "id": 1004,
+    "slug": "diora-highwaist-pants",
+    "name": "Diora Highwaist Straight Pants",
+    "price": 199000,
+    "category": "pants",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Wool Blend",
+    "colors": [
+      "Black",
+      "Cream"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-diora/600/800"
+    ],
+    "heroFlag": true,
+    "source": "tokopedia-observed",
+    "provisional": true
+  },
+  {
+    "id": 1005,
+    "slug": "oru-skort",
+    "name": "Oru Skort",
+    "price": 199000,
+    "category": "skort",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Denim",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-oru/600/800"
+    ],
+    "heroFlag": true,
+    "source": "tokopedia-observed",
+    "provisional": true
+  },
+  {
+    "id": 1006,
+    "slug": "bev-top",
+    "name": "Bev Top",
+    "price": 209000,
+    "category": "tops",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Premium Cotton",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-bev/600/800"
+    ],
+    "heroFlag": true,
+    "source": "shopee-observed",
+    "provisional": true
+  },
+  {
+    "id": 1007,
+    "slug": "rue-office-top",
+    "name": "Rue Office Top Blouse",
+    "price": 299000,
+    "category": "blouse",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Satin",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-rue/600/800"
+    ],
+    "heroFlag": true,
+    "source": "tokopedia-observed",
+    "provisional": true
+  },
+  {
+    "id": 1008,
+    "slug": "calla-dress",
+    "name": "Calla Dress",
+    "price": 259000,
+    "category": "dress",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Sateen",
+    "colors": [
+      "Black",
+      "Sage"
+    ],
+    "images": [
+      "https://picsum.photos/seed/marveile-calla/600/800"
+    ],
+    "heroFlag": true,
+    "source": "tokopedia-observed",
+    "provisional": true
+  },
+  {
+    "id": 1,
+    "slug": "alinea-cardigan",
+    "name": "Alinea Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0u-mb7tz3as8i3d6c"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 2,
+    "slug": "poppy-cardigan",
+    "name": "Poppy Cardigan",
+    "price": 179900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224t-miodhe11296u08"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 3,
+    "slug": "lily-sweater",
+    "name": "Lily Sweater",
+    "price": 219900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztl-msb7ook3yvpe60"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 4,
+    "slug": "choco-sweater",
+    "name": "Choco Sweater",
+    "price": 219900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztf-msb7fwylio7be9"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 5,
+    "slug": "zoe-half-zip-knitwear-cable-sweater",
+    "name": "Zoe Half Zip Knitwear Cable Sweater",
+    "price": 219900,
+    "category": "half-zip",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7ra0k-mcvzetdjhg839e"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 6,
+    "slug": "bianca-cable-sweater",
+    "name": "Bianca Cable Sweater",
+    "price": 179900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lyndodg98tuw97"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 7,
+    "slug": "alira-sweater",
+    "name": "Alira Sweater",
+    "price": 189900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wj-monshodzxmo06a"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 8,
+    "slug": "dalila-cardigan",
+    "name": "Dalila Cardigan",
+    "price": 149900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk1-m9vhzy40uahe42"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 9,
+    "slug": "elva-oversize-knit-sweater",
+    "name": "Elva Oversize Knit Sweater",
+    "price": 179900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mezxrs38x2q1e0"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 10,
+    "slug": "lolly-cardigan",
+    "name": "Lolly Cardigan",
+    "price": 204900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mro2r0d9bls208"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 11,
+    "slug": "miria-oversize-top",
+    "name": "Miria Oversize Top",
+    "price": 159900,
+    "category": "atasan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbka-m6nvfwpk9edld8"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 12,
+    "slug": "olive-cardigan",
+    "name": "Olive Cardigan",
+    "price": 149900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lzxjuglo9ryz25"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 13,
+    "slug": "noa-knit-top",
+    "name": "Noa Knit Top",
+    "price": 190900,
+    "category": "atasan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztk-mfcj7eb7i77s24"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 14,
+    "slug": "mimi-cardigan",
+    "name": "Mimi Cardigan",
+    "price": 239900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztq-msb8ex3ugd1i90"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 15,
+    "slug": "orchi-cardigan",
+    "name": "Orchi Cardigan",
+    "price": 229900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wk-mmn5l6e5imm97e"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 16,
+    "slug": "ayla-cardigan",
+    "name": "Ayla Cardigan",
+    "price": 229900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztl-mq98zo7omrd7cb"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 17,
+    "slug": "petali-cardigan",
+    "name": "Petali Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mr9zj8d2v4si39"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 18,
+    "slug": "yori-stripe-cardigan",
+    "name": "Yori Stripe Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wo-mont9pr68lcbc8"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 19,
+    "slug": "finola-cable-cardigan",
+    "name": "Finola Cable Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rase-m2kwa3fylj9x13"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 20,
+    "slug": "rosie-highneck-knit-cardigan",
+    "name": "Rosie Highneck Knit.Cardigan",
+    "price": 219900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mq99b5q66by9b5"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 21,
+    "slug": "linetta-polo-sweater",
+    "name": "Linetta Polo Sweater",
+    "price": 199900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224x-mgrnr91wp7v314"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 22,
+    "slug": "nomi-cardigan",
+    "name": "Nomi Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wk-monsry5mo00b77"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 23,
+    "slug": "cami-top",
+    "name": "Cami Top",
+    "price": 179900,
+    "category": "atasan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mro2hidinuh3e3"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 24,
+    "slug": "gradia-oversize-sweater",
+    "name": "Gradia Oversize Sweater",
+    "price": 179900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224q-mhllav486z9ed6"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 25,
+    "slug": "dotty-cardigan",
+    "name": "Dotty Cardigan",
+    "price": 229900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224w-miocmfdm0k5j74"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 26,
+    "slug": "anggrea-knit-cardigan",
+    "name": "Anggrea Knit Cardigan",
+    "price": 229900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wh-mmn56mrhqxae55"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 27,
+    "slug": "daisy-cardigan",
+    "name": "Daisy Cardigan",
+    "price": 149900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m1qr6qkmbknwfb"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 28,
+    "slug": "josie-sweater",
+    "name": "Josie Sweater",
+    "price": 139900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m73fb2ox9u9oe5"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 29,
+    "slug": "arlen-sweater",
+    "name": "Arlen Sweater",
+    "price": 179900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224p-mk51asdr68le69"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 30,
+    "slug": "senna-stripe-sweater",
+    "name": "Senna Stripe Sweater",
+    "price": 189900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-822wg-monsyiehovtabb"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 31,
+    "slug": "erin-top-sweater",
+    "name": "Erin Top Sweater",
+    "price": 129900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbkc-m98if59khqst64"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 32,
+    "slug": "tessa-henley-knit-top",
+    "name": "Tessa Henley Knit Top",
+    "price": 199900,
+    "category": "atasan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mq98p1dh807605"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 33,
+    "slug": "yuri-cardigan",
+    "name": "Yuri Cardigan",
+    "price": 179900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m627pk2maf9vb2"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 34,
+    "slug": "rhea-cardigan",
+    "name": "Rhea Cardigan",
+    "price": 199900,
+    "category": "cardigan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224r-mk51k3psjz0obb"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 35,
+    "slug": "selline-knit-top",
+    "name": "Selline Knit Top",
+    "price": 149900,
+    "category": "atasan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m8aa1ktre0su3d"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  },
+  {
+    "id": 36,
+    "slug": "vero-sweater-knit-cable-top",
+    "name": "Vero Sweater Knit Cable Top",
+    "price": 389900,
+    "category": "sweater",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Knit",
+    "colors": [],
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134207-8224u-mg7veukfg0zt26"
+    ],
+    "heroFlag": false,
+    "source": "nigoo-legacy",
+    "provisional": true
+  }
+]
