@@ -55,7 +55,7 @@ export default function Home({ searchParams }) {
       </form>
       <section className="grid" style={{ marginTop: 14 }} aria-label="Produk">
         {results.map((p) => (
-          <article className="card" key={p.slug}>
+          <a className="card" key={p.slug} href={`/produk/${p.slug}`}>
             <img src={p.images?.[0]} alt={p.name} loading="lazy" />
             <div className="info">
               {p.heroFlag && <span className="tag">HERO</span>}
@@ -63,7 +63,7 @@ export default function Home({ searchParams }) {
               <span className="price">{rupiah(p.price)}</span>
               <span className="meta">{p.category} · {p.sizes?.join("/")}</span>
             </div>
-          </article>
+          </a>
         ))}
       </section>
       {results.length === 0 && <p>Tidak ada hasil. Coba kata lain.</p>}

@@ -17,9 +17,15 @@
 - [x] Import data MVP all-in (44 SKU: 8 hero + 36 legacy) + `node scripts/validate-marveile.js` lolos
 - [x] `npm run build` lolos tanpa error
 
+## Excel audit (multisheet)
+- [x] `data/marveile-katalog-audit.xlsx`: Ringkasan 8 baris, Produk 44, Dedup 44, Preloved_Terpisah 24 (second, bukan harga resmi)
+
+## PDP + filter (tutup gap vs Uniqlo)
+- [x] `app/produk/[slug]/page.jsx`: gallery, size chart, CTA marketplace, related, JSON-LD, 44 static paths
+- [x] Filter katalog `?cat=&size=&max=&sort=&page=` (GET form, tanpa JS) + kartu link ke PDP
+- [x] `npm run build` lolos 49 halaman
+
 ## Demo GitHub
-- [x] `.gitignore` (node_modules, .next, .env*, *.xlsx)
-- [x] `git init && git add -A && git commit -m "feat: marveile.id Next.js MVP"`
-- [x] `git branch -M main && git remote add origin https://github.com/ZCrafters/marveile.id-demo.git`
-- [x] `git push -u origin main` (main → main, 21 files)
+- [x] `.gitignore` (node_modules, .next, .env*, *.xlsx kecuali audit)
+- [x] Commit + push `main → origin` (lanjut di bawah)
 - [ ] Import ke Vercel → deploy preview → tempel URL demo di sini: ____
