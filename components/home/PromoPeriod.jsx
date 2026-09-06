@@ -1,5 +1,6 @@
 import { promoProducts } from "../../lib/products";
 import { ProductCard } from "../ui/ProductCard";
+import { Reveal } from "../motion/Reveal";
 
 // Section promo berperiode ala referensi: banner + tab + grid promo + tanggal periode.
 export function PromoPeriod() {
@@ -24,9 +25,9 @@ export function PromoPeriod() {
         </div>
         <a href="/catalog">Lihat semua →</a>
       </div>
-      <div className="grid">
+      <Reveal className="grid" staggerChildren>
         {promoProducts.map((p) => <ProductCard key={p.slug} p={p} />)}
-      </div>
+      </Reveal>
     </section>
   );
 }

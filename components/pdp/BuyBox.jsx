@@ -1,5 +1,6 @@
 "use client";
-import { useState } from "react";
+import { useRef, useState } from "react";
+import { animate } from "animejs";
 import { rupiah } from "../../lib/products";
 import { useCart } from "../cart/CartProvider";
 import { Rating } from "../ui/ProductCard";
@@ -13,6 +14,7 @@ export function BuyBox({ p }) {
   const [color, setColor] = useState(p.colors?.[0] || "");
   const [tried, setTried] = useState(false);
   const [added, setAdded] = useState(false);
+  const btnRef = useRef(null);
   const needSize = !size && tried;
 
   const buy = () => {
@@ -23,6 +25,9 @@ export function BuyBox({ p }) {
     }
     add(p.slug, size, color, 1);
     setAdded(true);
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches && btnRef.current) {
+      animate(btnRef.current, { scale: [1, 0.94, 1], duration: 320, ease: "out(2)" });
+    }
     setOpen(true);
   };
 
@@ -67,7 +72,7 @@ export function BuyBox({ p }) {
       </div>
 
       <div className="buy-sticky">
-        <button className="btn" onClick={buy} disabled={needSize && false} aria-disabled={!size}>
+        <button ref={btnRef} className="btn" onClick={buy} disabled={needSize && false} aria-disabled={!size}>
           Tambah ke Keranjang
         </button>
       </div>

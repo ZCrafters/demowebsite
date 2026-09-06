@@ -8,7 +8,7 @@
 - [x] Tulis `docs/WORKFLOW.md`, `docs/CONTEXT.md`, `docs/TODO.md`
 
 ## Next.js migration (in-place, hapus Vite lama)
-- [x] Backup data: salin `public/data/products.json` → `data/products.marveile.raw.json`
+- [x] Backup data → diarsipkan di `docs/archive/` (raw + docs era Nigoo)
 - [x] Init Next.js: App Router JSX + `npm install` + `npm run build` lolos
 - [x] Hapus sisa Vite: `src/`, `dist/`, `public/data/` lama, scripts lama (sisa `validate-marveile.js`)
 - [x] Terapkan token Rosewood di `app/globals.css` + font Outfit/Satoshi
@@ -25,11 +25,11 @@
 - [x] Filter katalog `?cat=&size=&max=&sort=&page=` (GET form, tanpa JS) + kartu link ke PDP
 - [x] `npm run build` lolos 49 halaman
 
-## Gap Uniqlo screenshots (card/header/promo/data)
-- [x] Card: swatch + hati wishlist + gender/size-range + harga coret/promo + catatan periode
-- [x] Header transparan over hero + notice bar stok + mega menu bergambar + breadcrumb
-- [x] Section promo berperiode (banner + tab + grid) + harga promo di PDP
-- [x] Wishlist localStorage (provider + heart di card)
-- [x] Build 61 halaman + smoke 200 (/, katalog filter, PDP promo, checkout)
-- [ ] Follow-up: ganti 36 legacy Nigoo → SKU Marveile real + foto asli + harga promo real
+## Cleanup + animejs
+- [x] Hapus mati: `run.cjs`, `product-overrides.json`, xlsx Nigoo; `.h2d` keluar tree + `*.h2d` di gitignore
+- [x] Arsip: raw + 3 docs Nigoo → `docs/archive/`; scaffold → `docs/reference/`
+- [x] Hapus `PromoBanner` generik (menang `PromoPeriod`) + CSS-nya
+- [x] `npm install animejs@4.5.0` + `Reveal` (stagger fade-up, reduced-motion safe)
+- [x] Animasi: hero, grid kategori/best/new/promo/katalog, pulse add-to-cart
+- [x] Build 61 halaman + smoke 200 (/, katalog, PDP, checkout)
 - [ ] Import ke Vercel → deploy preview → tempel URL demo di sini: ____

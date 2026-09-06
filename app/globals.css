@@ -133,9 +133,6 @@ img { max-width: 100%; }
 .cat-label { position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 14px 12px; color: #fff; font-weight: 800; background: linear-gradient(transparent, rgba(0, 0, 0, 0.65)); text-transform: capitalize; }
 .h-scroll { display: grid; grid-auto-flow: column; grid-auto-columns: min(240px, 62vw); gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; }
 .h-scroll > * { scroll-snap-align: start; }
-.promo-banner { border-radius: var(--radius); background: var(--color-primary); color: var(--color-surface); padding: 32px 28px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between; margin-top: 8px; }
-.promo-banner h2 { margin: 0 0 6px; }
-.promo-banner p { margin: 0; opacity: 0.8; }
 
 /* ---------- Cards / grid ---------- */
 .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }

@@ -3,6 +3,7 @@ import { ProductCard } from "../../components/ui/ProductCard";
 import { Breadcrumb } from "../../components/ui/Chrome";
 import { FilterSidebar, SortDropdown } from "../../components/plp/Filters";
 import { FilterBottomSheet } from "../../components/plp/FilterBottomSheet";
+import { Reveal } from "../../components/motion/Reveal";
 
 const PER_PAGE = 24;
 
@@ -58,9 +59,9 @@ export default function Catalog({ searchParams }) {
           </div>
           {max ? <p className="meta">Harga maks: {rupiah(max)} · <a href="/catalog">reset</a></p> : null}
           {shown.length ? (
-            <section className="grid" aria-label="Produk">
+            <Reveal className="grid" staggerChildren aria-label="Produk">
               {shown.map((p) => <ProductCard key={p.slug} p={p} />)}
-            </section>
+            </Reveal>
           ) : (
             <div className="empty-cart">
               <strong>Tidak ada hasil.</strong>

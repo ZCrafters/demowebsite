@@ -1,7 +1,7 @@
 # Marveile.id — Workflow
 
 > Sumber tunggal alur kerja migrasi Vite (Nigoo) → Next.js (Marveile) + demo GitHub.
-> Referensi IA: `uniqlo-men-scaffold.html` (terinspirasi struktur, bukan salinan).
+> Referensi IA: `docs/reference/uniqlo-men-scaffold.html` (terinspirasi struktur, bukan salinan).
 
 ## 1. Prinsip
 1. Satu fungsi = satu elemen. Contoh: search hanya di Catalog (`#catalog-search`), TopNav hanya fokus ke sana. Dilarang duplikat overlay + inline.
