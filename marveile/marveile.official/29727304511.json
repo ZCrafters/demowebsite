@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Scarlet Knitted Top / Atasan Korean Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Scarlett Knitted Top\nIDR 259.000\n\nMaterial : Supper Soft Cotton Knit\nColor : Black | White | Maroon | Cream\n\nSize S\nBust : 88 cm\nLength : 54 cm\nSleeve length : 49 cm\n\nSize M\nBust : 94 cm\nLength : 56 cm\nSleeve length : 53 cm\n\nSize L\nBust : 100 cm\nLength : 60 cm\nSleeve length : 55 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 238280,
+  "price_min": 238280,
+  "price_max": 238280,
+  "price_before_discount": 259000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.958333333333333,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "Maroon",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk5-m6s6jmreds8k01",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m6s6kl88dfu407",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m6s6juk709vtde",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m6s6jy1lvcfhe4"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,S",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:06:36.556Z"
+}

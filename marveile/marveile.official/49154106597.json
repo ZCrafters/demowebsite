@@ -1,0 +1,172 @@
+{
+  "name": "[ Marveile ] Kiko Knitted Top / Korean Cardigan Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Kiko Knitted Top\nIDR 309.000\n\nMaterial : Thick Cotton Knit\nColor : Cream | Navy | Maroon | Milo | Grey \n\nSize S\nBust : 94 cm\nLength : 52 cm\nSleeve length : 56 cm\n\nSize M\nBust : 102 cm\nLength : 54 cm\nSleeve length : 56 cm\n\nSize L\nBust : 110 cm\nLength : 56 cm\nSleeve length : 56 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 309000,
+  "price_min": 309000,
+  "price_max": 309000,
+  "price_before_discount": 309000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.911764705882353,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Maroon",
+        "Navy",
+        "Milo",
+        "Cream",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224w-mjbmsprvj7k721",
+        "https://down-id.img.susercontent.com/file/id-11134207-82250-mjbmsvrjm9du32",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224r-mjbmt0fpwxs6a9",
+        "https://down-id.img.susercontent.com/file/id-11134207-82250-mjbmt9wypr7m30",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224o-mjbmthruonpf2e"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:03:55.040Z"
+}

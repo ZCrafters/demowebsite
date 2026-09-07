@@ -1,0 +1,64 @@
+{
+  "name": "[ Marveile ] Alaia Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Alaia Top\nIDR 159.000\n\nMaterial : Soft Knit\nColor : Black | Cream | White\n\nDetails:\nBust : 60 - 98 cm\nLength : 51 cm\nSleeve Length : 54 cm\n\nALL SIZE FIT TO L\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 146280,
+  "price_min": 146280,
+  "price_max": 146280,
+  "price_before_discount": 159000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.865528281750267,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lvn1c9g5l4wmcb",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lvn1c9g5mjh28f",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lvn1c9g59wg4a7"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "White",
+      "price": 146280,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:55.245Z"
+}

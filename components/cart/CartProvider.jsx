@@ -18,15 +18,18 @@ function load() {
 export function CartProvider({ children }) {
   const [lines, setLines] = useState([]);
   const [open, setOpen] = useState(false);
+  const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => {
     setLines(load());
+    setHydrated(true);
   }, []);
   useEffect(() => {
+    if (!hydrated) return; // jangan timpa localStorage sebelum load awal selesai
     try {
       localStorage.setItem(KEY, JSON.stringify(lines));
     } catch { /* mode memori */ }
-  }, [lines ]);
+  }, [lines, hydrated]);
 
   const value = useMemo(() => {
     const items = lines.map((l) => ({ ...getProduct(l.slug), size: l.size, color: l.color, qty: l.qty }));

@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Lizzie Skort / Rok Celana Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Lizzie Skort\nIDR 199.000\n\nMaterial : Semiwool\nColor : Black | White | Cream | Grey\n\nSize S\nLength : 34.5  cm\nWaist : 66 cm\nHips : 92 cm\n\nSize M\nLength : 35.5 cm\nWaist : 70 cm\nHips : 94 cm\n\nSize L\nLength : 36.5 cm\nWaist : 74 cm\nHips : 96 cm\n\nSize XL\nLength : 37.5 cm\nWaist : 78 cm\nHips : 98 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Pendek",
+    "Rok Celana"
+  ],
+  "price": 199000,
+  "price_min": 199000,
+  "price_max": 199000,
+  "price_before_discount": 199000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.962034927866363,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Cream"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lug0zgamjp2pad",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lug0zgamqpwxad",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lug0zgaml3n549"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,XL",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,XL",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,XL",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:55.324Z"
+}

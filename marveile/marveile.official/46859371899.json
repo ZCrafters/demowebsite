@@ -1,0 +1,120 @@
+{
+  "name": "[ Marveile ] Maisey Dress / Dress Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Maisey Dress \nIDR 359.000\n\nMaterial : Premium woven with furing\nColor : Black | White | Maroon\n\nSize S\nBust : 86 cm\nWaist : 78 cm\nLength : 80 cm\n\nSize M\nBust : 90 cm\nWaist : 82 cm\nLength : 80 cm\n\nSize L\nBust : 94 cm\nWaist : 86 cm\nLength : 81 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Dress"
+  ],
+  "price": 359000,
+  "price_min": 359000,
+  "price_max": 359000,
+  "price_before_discount": 359000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.928571428571429,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Black",
+        "Maroon",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-822wh-mnofvcmmsw76bc",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wr-mnofvh1mdn2a58",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wp-mnofvm1xn5dx68"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,M",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:29.612Z"
+}

@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Huile Knit Top Outer / Atasan Outer Blazer Knit Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Huile Knit Top Outer\n\nMaterial : Soft Cotton Knit\nColor : Grey | Cream | Black | Maroon\n\nSize S\nBust : 88 cm\nLength : 49 cm\nSleeve length : 60 cm\n\nSize M\nBust : 94 cm\nLength : 49 cm\nSleeve length : 60 cm\n\nSize L\nBust : 100 cm\nLength : 50 cm\nSleeve length : 60 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 279000,
+  "price_min": 279000,
+  "price_max": 279000,
+  "price_before_discount": 279000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9245283018867925,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Black",
+        "Grey",
+        "Cream",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81zte-mqx5njvn5amefe",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mqx5nmv56vwsbb",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zti-mqx5nqrupz411e",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mqx5nu6lmz2c96"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Grey,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:39.824Z"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Clou Jumpsuit / Jumpsuit Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Clou Jumpsuit\nIDR 289.000\n\nMaterial : Cotton Polyster\nColor : Black | Cream | Brown\n\nSize S\nBust : 76 - 86 cm\nWaist : 60 - 72 cm\nHips : 102 cm\nLength : 126 cm\n\nSize M\nBust : 80 - 92 cm\nWaist : 64 - 80 cm\nHips : 106 cm\nLength : 127 cm\n\nSize L\nBust : 84 - 96 cm\nWaist : 68 - 84 cm\nHips : 110 cm\nLength : 128 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jumpsuit, Playsuit, & Overall",
+    "Jumpsuit"
+  ],
+  "price": 319000,
+  "price_min": 319000,
+  "price_max": 319000,
+  "price_before_discount": 319000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.890739008419083,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "Brown"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztf-mey28g9t5nno18",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztl-mf0vor2z02kqcc",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zto-mf28s8cvlk3s37"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:41.532Z"
+}

@@ -1,0 +1,17 @@
+{
+  "shop": "marveile.official",
+  "shopid": 406683489,
+  "page": "https://shopee.co.id/verify/traffic/error?home_url=https%3A%2F%2Fshopee.co.id&is_logged_in=true&tracking_id=4709e855dae-f3a1-4783-9961-2b0891b13d33",
+  "scraped_at": "2026-09-06T12:08:25.210Z",
+  "assets": [
+    {
+      "file": "hero_01.jpg",
+      "url": "https://down-id.img.susercontent.com/file/id-11134210-7r98o-m0bx9rk59zq817",
+      "source": "shop_base",
+      "note": "cover toko",
+      "bytes": 141343,
+      "width": 900,
+      "height": 389
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Kyra Knit One Shoulder Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Kyra Knit One Shoulder Top\nIDR 179.000\n\nMaterial : Soft Cotton Knit (very stretchy)\nColor : White | Black | Choco\n\nSize S\nLength : 47 cm\nBust : 70 - 84 cm\nSleeve Length : 52 cm\n\nSize M\nLength : 48 cm\nBust : 74 - 88 cm\nSleeve Length : 52 cm\n\nSize L\nLength : 49 cm\nBust : 78 - 92 cm\nSleeve Length : 52 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Atasan Lainnya"
+  ],
+  "price": 179000,
+  "price_min": 179000,
+  "price_max": 179000,
+  "price_before_discount": 179000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.86936936936937,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Choco",
+        "Black",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk6-m7dk3rcbi9hxd0",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbkd-m7c6nab7qzyt6d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk5-m7dk3x1d67e48f"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,S",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,L",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 179000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:35.433Z"
+}

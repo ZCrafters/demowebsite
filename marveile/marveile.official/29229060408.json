@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Chu Polo Top / Atasan Top Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Chu Polo Top\nIDR 209.000\n\nMaterial : Cotton Waffle\nColor : Black | Cream\n\nSize S\nLength : 52 cm\nBust : 94 cm\nSleeve Length : 22 cm\n\nSize M\nLength : 54 cm\nBust : 100 cm\nSleeve Length : 23 cm\n\nSize L\nLength : 55 cm\nBust : 106 cm\nSleeve Length : 23 cm\n\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kaus Polo"
+  ],
+  "price": 209000,
+  "price_min": 209000,
+  "price_max": 209000,
+  "price_before_discount": 209000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.868544600938967,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk2-m7dkj5pi9c6kbc",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m7ewk1llpqkk4b"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:47.643Z"
+}

@@ -1,0 +1,147 @@
+{
+  "name": "[ Marveile ] Hazel Top / Atasan Baju Semiwool Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Hazel Top\nIDR 309.000\n\nMaterial : Semiwool with furing \nColor : Brown | Maroon | Blue | Cream\n\nSize S\nBust : 88 cm\nWaist : 76 cm\nLength : 59 cm\nSleeve Length : 21 cm\n\nSize M\nBust : 94 cm\nWaist : 80 cm\nLength : 60 cm\nSleeve Length : 21 cm\n\nSize L\nBust : 100 cm\nWaist : 84 cm\nLength : 61 cm\nSleeve Length : 22 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 309000,
+  "price_min": 309000,
+  "price_max": 309000,
+  "price_before_discount": 309000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.950354609929078,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Blue",
+        "Maroon",
+        "Cream",
+        "Brown"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224o-mk29rcf6ifb8ed",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224p-mk29rqc0term6e",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224s-mk29s0jfg0794a",
+        "https://down-id.img.susercontent.com/file/id-11134207-82251-mk29s9d005jb9d"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:09.759Z"
+}

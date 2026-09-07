@@ -1,0 +1,173 @@
+{
+  "name": "[ Marveile ] Won Highwaist Pants / HW Skinny Pants",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Won Highwaist Pants \nIDR 199.000\n\nMaterial : Premium Twill\nColor : Black | Fuschia | Sand | White | Electric Blue\n\nSize S\nLength : 94 cm\nWaist : 64 - 68 cm \nHips : 98 cm\nLingkar Paha : 54 cm\n\nSize M \nLength : 96 cm\nWaist : 68 - 72 cm\nHips : 102 cm\nLingkar Paha : 58 cm\n\nSize L\nLength : 98 cm\nWaist : 72 - 76 cm\nHips : 106 cm\nLingkar Paha : 62 cm",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Panjang & Legging",
+    "Celana Panjang"
+  ],
+  "price": 183080,
+  "price_min": 183080,
+  "price_max": 183080,
+  "price_before_discount": 199000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.890742734122712,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Fuschia",
+        "Sand",
+        "White",
+        "Electric Blue"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul7-ljbdkl9coeseb4",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul7-ljbdkl9cptcud3",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul1-ljbdkl9cr7xae2",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul0-ljbdkl9csmhq1d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7quky-ljboevtl3wyrd3"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Fuschia,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sand,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Electric Blue,M",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Electric Blue,S",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sand,M",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Fuschia,S",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Fuschia,M",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sand,S",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Electric Blue,L",
+      "price": 183080,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:59.334Z"
+}

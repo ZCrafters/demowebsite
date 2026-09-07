@@ -1,0 +1,113 @@
+{
+  "name": "[ Marveile ] Soma Zipper Knit Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Soma Zipper Knit Top\nIDR 229.000\n\nMaterial : Soft Cotton Knit\nColor : White | Black | Cream | Grey\n\nSize S-M\nLength : 53 cm\nBust : 92 cm\nShoulder Width : 36 cm\nSleeve Length : 53 cm\n\nSize M-L\nLength : 55 cm\nBust : 102 cm\nShoulder Width : 37 cm\nSleeve Length : 55 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 210680,
+  "price_min": 210680,
+  "price_max": 210680,
+  "price_before_discount": 229000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.900763358778626,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "White",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m4yi0nz5wcrc5d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m4yi9sv4m076b1",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasg-m4yi1izyi2bk39",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m4zv47kqrayo32"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S-M",
+        "M-L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "White,S-M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M-L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S-M",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M-L",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S-M",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M-L",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S-M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M-L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:14.808Z"
+}

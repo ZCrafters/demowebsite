@@ -1,0 +1,92 @@
+{
+  "name": "[ Marveile ] Phoebe Tweed Top / Atasan Tanktop Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Phoebe Tweed Top\nIDR 279.000\n\nMaterial : Premium Tweed with furing\nColor : Black | Cream\n\nSize S\nBust : 88 cm \nLength : 61 cm\nWaist : 72 cm\n\nSize M\nBust : 92 cm\nLength : 62 cm\nWaist : 78 cm\n\nSize L\nBust :  96 cm\nLength : 63 cm\nWaist : 84 cm\n\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 256680,
+  "price_min": 256680,
+  "price_max": 256680,
+  "price_before_discount": 279000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.666666666666667,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream"
+      ],
+      "images": []
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,L",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 256680,
+      "price_before_discount": 279000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:31.353Z"
+}

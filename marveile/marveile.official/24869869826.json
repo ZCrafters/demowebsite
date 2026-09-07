@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Chiro Knit Top / Korean Knit Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Chiro Knit Top\nIDR 239.000\n\nMaterial : Soft Knit\nColor : Navy | Cream | Maroon\n\nSize S\nBust : 90  cm \nLength : 43 cm\nSleeve Length : 24 cm\n\nSize M\nBust : 96 cm \nLength : 44 cm\nSleeve Length : 24.5 cm\n\nSize L\nBust : 102 cm \nLength : 45 cm\nSleeve Length : 25 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 219880,
+  "price_min": 219880,
+  "price_max": 219880,
+  "price_before_discount": 239000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.937413073713491,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Navy",
+        "Cream",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lt3p7xkdy05if5",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lt3p7xl83t8tb7",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r992-lt3p7xkdwll2be"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,L",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,S",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,L",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,M",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:39.123Z"
+}

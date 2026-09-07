@@ -1,0 +1,113 @@
+{
+  "name": "[ Marveile ] Jose Knit Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Jose Knit Top\nIDR 259.000\n\nMaterial : Soft Cotton Knit\nColor : Dark Grey | Maroon | Pink | Grey\n\nSize S-M\nLength : 58 cm\nBust : 95 cm\nShoulder Width : 36 cm\nSleeve Length : 59 cm\n\nSize M-L\nLength : 60 cm\nBust : 105 cm\nShoulder Width : 37 cm\nSleeve Length : 60 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 238280,
+  "price_min": 238280,
+  "price_max": 238280,
+  "price_before_discount": 259000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.888,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Dark Grey",
+        "Grey",
+        "Maroon",
+        "Pink"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rash-m3unqsn8wb1688",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasd-m3unqsn8xplm16",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasg-m3unqsn8z46258",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m3unqsn90iqi71"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S-M",
+        "M-L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Dark Grey,S-M",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Grey,M-L",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S-M",
+      "price": 238280,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M-L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S-M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M-L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,S-M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M-L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:03:32.421Z"
+}

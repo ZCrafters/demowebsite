@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Amalfi Knit Zipper Top Outer / Atasan Outer Blazer Knit Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Amalfi Knit Zipper Top Outer\n\nMaterial : Soft Wool Knit\nColor : Grey | Cream | Taupe | Choco\n\nSize S\nBust : 92 cm\nLength : 52 cm\nSleeve length : 48 cm\n\nSize M\nBust : 100 cm\nLength : 53 cm\nSleeve length : 50 cm\n\nSize L\nBust : 106 cm\nLength : 54 cm\nSleeve length : 52 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 329000,
+  "price_min": 329000,
+  "price_max": 329000,
+  "price_before_discount": 329000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.962962962962963,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Grey",
+        "Choco",
+        "Cream",
+        "Oat"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztl-mqx4cmhw3pj660",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mqxitp0btx53bb",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztf-mqx4dia928ea55",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztd-mqx4do08eebw78"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Oat,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Oat,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Oat,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:54.151Z"
+}

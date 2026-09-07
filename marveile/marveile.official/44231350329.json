@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Mare Dress / Mini Dress Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Mare Dress \n\nMaterial : Premium woven with furing\nColor : Black | White | Maroon | Yellow \n\nSize S\nBust : 88 cm\nWaist : 76 cm\nLength : 78 cm \nSleeve length : 20 cm\n\nSize M\nBust : 92 cm \nWaist : 80 cm\nLength : 79 cm\nSleeve length : 20 cm \n\nSize L\nBust : 96 cm\nWaist : 84 cm\nLength : 80 cm\nSleeve length : 21 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Dress"
+  ],
+  "price": 329000,
+  "price_min": 329000,
+  "price_max": 329000,
+  "price_before_discount": 329000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 5,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Black",
+        "White",
+        "Yellow",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-822wi-mp145da5r9xcd9",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wt-mp145j8ooem936",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wr-mp145p2rcky44d",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wl-mp145v725rf22e"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "White,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Yellow,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Yellow,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Yellow,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:00:25.494Z"
+}

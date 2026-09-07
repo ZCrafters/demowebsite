@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Taylor Top + FREE BELT  / Atasan Baju Tanktop Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Taylor Top + FREE BELT\nIDR 299.000\n\nMaterial : Polyster with furing \nColor : Brown | Black | White\n\nSize S\nBust : 88 cm\nWaist : 76 cm\nLength : 66 cm\n\nSize M\nBust : 94 cm\nWaist : 80 cm\nLength : 66 cm\n\nSize L\nBust : 100 cm\nWaist : 84 cm\nLength : 67 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 300000,
+  "price_min": 300000,
+  "price_max": 300000,
+  "price_before_discount": 300000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.980769230769231,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Brown",
+        "Black",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-82252-mk2akx1pnbpc40",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224z-mk2al2j2ldz91f",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224p-mk2al99atq84dd"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,S",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,L",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 300000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:53.345Z"
+}

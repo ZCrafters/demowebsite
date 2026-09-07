@@ -1,0 +1,113 @@
+{
+  "name": "[ Marveile ] Gail Knitted Sweater Top / Atasan Korean Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Gail Knitted Sweater Top\nIDR 259.000\n\nMaterial : Soft Hairy Wool Knit\nColor : Black | Cream | Maroon | Grey \n\nSize S\nBust : 80 - 110 cm\nLength : 51 cm\nSleeve length : 54 cm\n\nSize M\nBust : 90 - 120 cm\nLength : 52 cm\nSleeve length : 55 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 259000,
+  "price_min": 259000,
+  "price_max": 259000,
+  "price_before_discount": 259000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.885345997286295,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Grey",
+        "Black",
+        "Cream",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk9-m6s4j5o4gz1oc6",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m6s37u2hhh2l58",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m6s37x88uzux2e",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk8-m6s3ewjj3e5o95"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:56.404Z"
+}

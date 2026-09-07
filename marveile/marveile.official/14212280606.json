@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Becca Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Becca Top\nIDR 189.000\n\nMaterial : Premium Cotton\nColor : White | Black | Choco\n\nSize S \nBust : 78 - 85 cm\nLength : 34 cm\nWaist : 70cm\n\nSize M \nBust : 86 - 92 cm\nLength : 35 cm\nWaist : 75cm\n\nSize L \nBust : 92 - 97cm\nLength : 36 cm\nWaist : 80cm",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 189000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.908006814310051,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Colour",
+      "options": [
+        "Black",
+        "White",
+        "Choco"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul2-lfglsbn87sy5da",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qukw-lfglsbn86edp3e",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul3-lfglsbn8c0nh27"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:06.733Z"
+}

@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Cult Denim Blazer | Atasan Blazer Denim Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Cult Denim Blazer \nIDR 359.000\n\nMaterial : Premium Denim\nColor : Light Denim | Dark Denim\n\nSize S\nBust : 94 cm \nLength : 51 cm\nSleeve length : 62 cm\n\nSize M\nBust : 100 cm\nLength : 52 cm\nSleeve length : 62 cm\n\nSize L\nBust : 106 cm\nLength : 53 cm\nSleeve length : 62 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 359000,
+  "price_min": 359000,
+  "price_max": 359000,
+  "price_before_discount": 359000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9324324324324325,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Dark Denim",
+        "Light Denim"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-822wp-mnpgu9j03xfn6e",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wo-mnpgudbcbev7ed"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Light Denim,S",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Denim,M",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Denim,L",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Denim,S",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Denim,M",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Denim,L",
+      "price": 359000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:40.362Z"
+}

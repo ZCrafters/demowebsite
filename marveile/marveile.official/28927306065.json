@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Keith Knitted Top / Atasan Korean Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Keith Knitted Top\nIDR 279.000\n\nMaterial : Super Soft Cotton Knit\nColor : Black | Grey | Maroon | Mauve\n\nSize S\nBust : 92 cm\nLength : 57 cm\nSleeve length : 59 cm\n\nSize M\nBust : 102 cm\nLength : 59 cm\nSleeve length : 59 cm\n\nSize L\nBust : 110 cm\nLength : 62 cm\nSleeve length : 61 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 279000,
+  "price_min": 279000,
+  "price_max": 279000,
+  "price_before_discount": 279000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.918088737201365,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Mauve",
+        "Black",
+        "Maroon",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbkc-m6s56svaued0ac",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m6s56eb66svh40",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk6-m6s56nqict8pac",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zto-mey0n28mh344a4"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Grey,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Mauve,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Mauve,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Mauve,M",
+      "price": 279000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:40.997Z"
+}

@@ -1,0 +1,180 @@
+{
+  "name": "[ Marveile ] Mao Short Pants / Celana Pendek Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Mao Short Pants\n\nMaterial : Semiwool with furing \nColor : Black | Ivory | Cream | Dark Khaky\n\nSize S\nLength : 37 cm\nWaist : 66 cm\nHips : 90 cm\nLingkar Paha : 65 cm\n\nSize M\nLength : 38 cm\nWaist : 70 cm\nHips : 94 cm\nLingkar Paha : 69 cm\n\nSize L\nLength : 39 cm\nWaist : 74 cm\nHips : 98 cm\nLingkar Paha : 73 cm\n\nSize XL\nLength : 40 cm\nWaist : 78 cm\nHips : 102 cm\nLingkar Paha : 77 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Pendek",
+    "Celana Pendek"
+  ],
+  "price": 219000,
+  "price_min": 219000,
+  "price_max": 219000,
+  "price_before_discount": 219000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 5,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Black",
+        "Ivory",
+        "Cream",
+        "Dark Khaky"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mre8guobqhvl5d",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zth-mre8gzrtd2py12",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zth-mreokp5k2brgbc",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zto-mre8h8f6mbydbd"
+      ]
+    },
+    {
+      "name": "SIze",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,XL",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Khaky,M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Khaky,L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,S",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,XL",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,XL",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Khaky,XL",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Khaky,S",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:51.871Z"
+}

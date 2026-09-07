@@ -1,0 +1,111 @@
+{
+  "name": "[ Marveile ] Oru Skort / Rok Celana Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Oru Skort / Rok Jeans Wanita\nIDR 269.000\n\nMaterial : Soft Jeans\nColor : Light Blue | Dark Blue\n\nSize S \nWaist : 66 cm\nLength : 40cm\nHips : 90cm\n\nSize M\nWaist : 70 cm\nLength : 41cm\nHips : 94 cm\n\nSize L\nWaist : 74 cm\nLength : 42cm\nHips : 98cm\n\nSize XL\nWaist : 78 cm\nLength : 43cm\nHips : 102cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Rok"
+  ],
+  "price": 269000,
+  "price_min": 269000,
+  "price_max": 269000,
+  "price_before_discount": 269000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.91358024691358,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Light Blue",
+        "Dark Blue"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mqadfxf71p1d7e",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztf-mqadg5s9pgct14"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Light Blue,S",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,XL",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,S",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,XL",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:20.678Z"
+}

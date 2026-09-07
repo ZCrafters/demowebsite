@@ -1,0 +1,179 @@
+{
+  "name": "[ Marveile ] Isla Highwaist Cullote Jeans / Kulot Jeans Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Isla Highwaist Cullote Jeans\nIDR 189.000\n\nColor : Pink | Sage Green | White | Black\n\nOn Model\nSize : S\nBB : 48 kg\nTB : 165 cm\n\nSize S\nWaist : 64 cm\nHips : 92 cm\nFront Rise : 30 cm\nLength : 103 cm\n\nSize M\nWaist : 68 cm\nHips : 96 cm\nFront Rise : 30 cm\nLength : 104 cm\n\nSize L\nWaist : 72 cm\nHips : 100 cm\nFront Rise : 31 cm\nLength : 104 cm\n\nSize XL\nWaist : 76 cm\nHips : 104 cm\nFront Rise : 31 cm\nLength : 105 cm\n\nJeans By MARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Jeans"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 189000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.855555555555555,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Pink",
+        "Sage Green",
+        "White",
+        "Black"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul5-lg9plfwe0qax1d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul7-lg9plfwe24vd77",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul5-lg9plfwe3jft89",
+        "https://down-id.img.susercontent.com/file/id-11134207-7quky-lg9plfwe4y09a0"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Pink,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,XL",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,XL",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sage Green,XL",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sage Green,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sage Green,M",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,XL",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Sage Green,L",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:17.213Z"
+}

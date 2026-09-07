@@ -1,0 +1,147 @@
+{
+  "name": "[ Marveile ] Mich Top / Atasan Tanktop Bunga Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Mich Top\n\nMaterial : Chiffon with furing \nColor : Black | Butter Yellow | Baby Blue | Ivory\n\nSize S \nBust : 84 cm\nWaist : 72 cm\nLength : 55 cm\n\nSize M\nBust : 90 cm\nWaist : 78 cm\nLength : 55,5 cm\n\nSize L\nBust : 96 cm\nWaist : 84 cm\nLength : 56 cm\n\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 259000,
+  "price_min": 259000,
+  "price_max": 259000,
+  "price_before_discount": 259000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 5,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Baby Blue",
+        "Butter Yellow",
+        "Black",
+        "Ivory"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81zte-msp1yo23f7r604",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztc-msp1yo23gmbm6b",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztd-msp2dl0msxs78c",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zti-msp2dl0proxt5f"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Ivory,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Butter Yellow,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Butter Yellow,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Butter Yellow,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:00:36.822Z"
+}

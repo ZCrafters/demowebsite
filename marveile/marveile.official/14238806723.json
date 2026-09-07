@@ -1,0 +1,94 @@
+{
+  "name": "[ Marveile ] Jia Dress / Dress Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Jia Dress\nIDR 269.000\n\nMaterial : Sateen Premium\nColor : Black | Maroon\nAdjustable Strap \n\nSize S/M\nBust : 83 - 91 cm\nWaist : 67 - 73 cm\nHips : 89 - 97 cm\nLength : 99 cm\n\nSize M/L\nBust : 87 - 95 cm\nWaist : 71 - 77 cm\nHips : 93 - 101 cm\nLength : 101 cm\n\nSize L/XL\nBust :  91 - 99 cm\nWaist : 75 - 81 cm\nHips : 97 - 105  cm\nLength : 103 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "Nobrands Footwear",
+  "categories": [
+    "Pakaian Wanita",
+    "Dress"
+  ],
+  "price": 247480,
+  "price_min": 247480,
+  "price_max": 247480,
+  "price_before_discount": 269000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.8870481927710845,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224r-mjh45nuaqghwaf",
+        "https://down-id.img.susercontent.com/file/id-11134207-82250-mjh47svdyeps42"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S/M",
+        "M/L",
+        "L/XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,M/L",
+      "price": 247480,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S/M",
+      "price": 247480,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L/XL",
+      "price": 247480,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M/L",
+      "price": 247480,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L/XL",
+      "price": 247480,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S/M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:40.353Z"
+}

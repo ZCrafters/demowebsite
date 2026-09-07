@@ -1,0 +1,84 @@
+{
+  "name": "[ Marveile ] Ultra Comfy Shirt / Premium Tshirt Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "[ Marveile ] Ultra Comfy Shirt\n\nBust : up to 94 cm\nSleeve length : 19 cm\nLength : 58 cm \nShoulder with : 37 cm\n\nALL SIZE FIT TO L ",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kaos"
+  ],
+  "price": 173880,
+  "price_min": 173880,
+  "price_max": 173880,
+  "price_before_discount": 189000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.928571428571429,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Pink",
+        "Blue",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul2-ljwyx0ugu5uq45",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul7-ljwyx0uglqg2bd",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul4-ljwyx0ugn50i87",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul1-ljwyx0ugsraa16",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul0-ljwyx0ugojky6e"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "White",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink",
+      "price": 173880,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue",
+      "price": 173880,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey",
+      "price": 173880,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:03.000Z"
+}

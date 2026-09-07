@@ -1,0 +1,147 @@
+{
+  "name": "[ Marveile ] Portia Lace Top Blazer / Atasan Blazer Renda Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Portia Lace Blazer Top \n\nMaterial : Semi Tweed + Furing\nColor : Black | White | Grey | Maroon \n\nSize S\nBust : 92 cm \nLength : 65 cm\nSleeve length : 54 cm\n\nSize M\nBust : 98 cm\nLength : 66 cm\nSleeve length : 56 cm\n\nSize L\nBust : 104 cm\nLength : 67 cm\nSleeve length : 58 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 400000,
+  "price_min": 400000,
+  "price_max": 400000,
+  "price_before_discount": 400000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.925,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Black",
+        "White",
+        "Maroon",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81zto-mqx5vilbt72k31",
+        "https://down-id.img.susercontent.com/file/id-11134207-81zte-mqx5vmauhqtca1",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mqx5vp1srchs7b",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztf-mqx5w7pk0005e9"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Grey,S",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 400000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:43.198Z"
+}

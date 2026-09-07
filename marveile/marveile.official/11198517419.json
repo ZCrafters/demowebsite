@@ -1,0 +1,84 @@
+{
+  "name": "[ Marveile ] Joa Pleats Pants / Kulot Pleats Pants",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Joa Pleats Pants \nIDR 169.000\n\nMaterial : Pleats Polyster\nColor : Black | Cream | Red | Green | Electric Blue \n\nAll Size\nLength : 98 cm\nWaist : 62 - 100 cm \nHips : 120 cm\nLingkar Paha : 65 cm\n\nMarveile",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Panjang & Legging",
+    "Celana Panjang"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 169000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.916666666666667,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "Green",
+        "Red",
+        "Electric Blue"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-84jzm0r3pojvf2",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-730dsl43pojvda",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-eu0u4kd4pojv5f",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-9jso1sj4pojvf6",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-77sn4sw4pojv35"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "Red",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Electric Blue",
+      "price": 99000,
+      "price_before_discount": 169000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Green",
+      "price": 99000,
+      "price_before_discount": 169000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:10.295Z"
+}

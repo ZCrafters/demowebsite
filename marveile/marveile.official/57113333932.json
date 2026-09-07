@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Luis Knitted Zipper Top / Korean Cardigan Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Luis Knitted Zipper Top \n\nMaterial : Soft Cotton Knit \nColor : Brown | Grey | Navy | Milo \n\nSize S\nBust : 90 cm\nLength : 54 cm\nSleeve length : 57 cm\n\nSize M\nBust : 100 cm\nLength : 54 cm\nSleeve length : 57 cm\n\nSize L\nBust : 110 cm\nLength : 55 cm\nSleeve length : 57 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 319000,
+  "price_min": 319000,
+  "price_max": 319000,
+  "price_before_discount": 319000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.833333333333333,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Brown",
+        "Grey",
+        "Navy",
+        "Milo"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81zti-mqc1a1rnypdu0c",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztn-mqc1a7mrxqmm71",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztl-mqc1acadpkb1de",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mqc1agmfi9l8b2"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Brown,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:00:47.842Z"
+}

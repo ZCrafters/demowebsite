@@ -1,0 +1,180 @@
+{
+  "name": "[ Marveile ] Rocco Pleats Skort / Rok Celana Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Rocco Skort \nIDR 209.000\n\nMaterial : Semiwool With FURING\nColor : Black | Ivory | Cream | Grey \n\nSize S\nLength : 37 cm\nWaist : 66 cm\nHips : 90 cm\n\nSize M\nLength : 38 cm\nWaist : 70 cm\nHips : 96 cm\n\nSize L\nLength : 39 cm\nWaist : 74 cm\nHips : 102 cm\n\nSize XL\nLength : 40 cm\nWaist : 78 cm\nHips : 108 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Pendek",
+    "Rok Celana"
+  ],
+  "price": 209000,
+  "price_min": 209000,
+  "price_max": 209000,
+  "price_before_discount": 209000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.92638036809816,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Ivory",
+        "Cream",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk2-m6fh5j4hlild3f",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk5-m6fh5dxh76sq5c",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbkc-m6fh59tl7loc1a",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk1-m6fh53fujt0n37"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Ivory,XL",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,XL",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,XL",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,XL",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:32.464Z"
+}

@@ -1,0 +1,172 @@
+{
+  "name": "[ Marveile ] Anais Knit Top / Korean Knit Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Anais Knit Top\nIDR 309.000\n\nMaterial : Soft Knit\nColor : Black | Maroon | Baby Blue | Baby Pink | Baby Yellow\n\nSize S\nBust : 88 cm \nLength : 48 cm\nSleeve Length : 56 cm\n\nSize M\nBust : 96 cm \nLength : 50 cm\nSleeve Length : 57 cm\n\nSize L\nBust : 104 cm \nLength : 52 cm\nSleeve Length : 57 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 309000,
+  "price_min": 309000,
+  "price_max": 309000,
+  "price_before_discount": 309000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.902684563758389,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Baby Blue",
+        "Baby Pink",
+        "Baby Yellow",
+        "Black",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mfm9xe3lt6oc80",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztn-mfm9xn7qrehbcc",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztm-mfm9xri5btot02",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztj-mfma91p315akd1",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mfmanb9oqbd642"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Baby Blue,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Pink,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Yellow,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Pink,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Yellow,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Pink,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Yellow,M",
+      "price": 309000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:49.771Z"
+}

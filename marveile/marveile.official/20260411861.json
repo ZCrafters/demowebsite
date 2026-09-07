@@ -1,0 +1,120 @@
+{
+  "name": "[ Marveile ] Soleil Sateen Dress / Dress Satin Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Soleil Dress\nIDR 209.000\n\nMaterial : Sateen\nColor : Black | Red | Teal\n\nSize S\nBust : 86 cm\nWaist : 67 cm\nLength : 108 cm\n\nSize M\nBust : 90 cm\nWaist : 71 cm\nLength : 110 cm\n\nSize L\nBust : 94 cm\nWaist : 75 cm\nLength : 112 cm\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Dress"
+  ],
+  "price": 192280,
+  "price_min": 192280,
+  "price_max": 192280,
+  "price_before_discount": 209000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9485049833887045,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Red",
+        "Teal"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-d7yam6ksdkjva3",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-quwhuvrsdkjv9d",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-nz0jvbzsdkjva9"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Red,L",
+      "price": 192280,
+      "price_before_discount": 209000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,L",
+      "price": 192280,
+      "price_before_discount": 209000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Red,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Red,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,S",
+      "price": 192280,
+      "price_before_discount": 209000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,M",
+      "price": 192280,
+      "price_before_discount": 209000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:16.089Z"
+}

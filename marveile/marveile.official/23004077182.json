@@ -1,0 +1,84 @@
+{
+  "name": "[ Marveile ] Ella Knit Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Ella Top\nIDR 169.000\n\nMaterial : Soft Knit\nColor : Black | White | Khaki | Blue | Brick\n\nDetails:\nBust : Up To 100 cm\nLength : 60 cm\n\nALL SIZE FIT TO L",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 169000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.835820895522388,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Khaki",
+        "Blue",
+        "Brick"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-zp435vl5dkjv9f",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-zgvht210dkjv16",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-zwvsyir5dkjv9d",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-fl2h77w5dkjv61",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-mbnep225dkjvec"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "White",
+      "price": 99000,
+      "price_before_discount": 169000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brick",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:22.153Z"
+}

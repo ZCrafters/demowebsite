@@ -1,0 +1,173 @@
+{
+  "name": "[ Marveile ] Willow Two Ways Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Willow Top\nIDR 159.000\n\nMaterial : Premium Cotton\nColor : Baby Blue | Khaki | Lemon | Pink | Maroon\n\nSize S\nBust : 90 cm\nLength : 38 cm\nWaist : 80 cm\n\nSize M \nBust : 96 cm\nLength : 40 cm\nWaist : 85 cm\n\nSize L\nBust : 102 cm\nLength : 42 cm\nWaist : 90 cm",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 159000,
+  "price_before_discount": 159000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.957894736842105,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Colour",
+      "options": [
+        "Baby Blue",
+        "Khaki",
+        "Lemon",
+        "Pink",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/9e07d30789242a2484ece87323ca529b",
+        "https://down-id.img.susercontent.com/file/29705b3f90c5bee2df95a2047a718fe9",
+        "https://down-id.img.susercontent.com/file/439ab0001f47d93fe2ee91beac06a7db",
+        "https://down-id.img.susercontent.com/file/f82310ebcb98b29a9c25b37df695f103",
+        "https://down-id.img.susercontent.com/file/ab1fd3dc0712f603fe819956f75f3ffe"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,S",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,S",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Lemon,L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,S",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Lemon,M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Lemon,S",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:14.911Z"
+}

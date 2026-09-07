@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Haru Top / Atasan Korean Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Haru Top\nIDR 259.000\n\nMaterial : Premium Semiwool + Furing\nColor : Brown | Cream | Grey\n\nSize S\nBust : 84 cm \nLength : 49 cm\n\nSize M\nBust : 90 cm\nLength : 50 cm\n\nSize L\nBust : 96 cm\nLength : 51 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 120000,
+  "price_min": 120000,
+  "price_max": 120000,
+  "price_before_discount": 259000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.871794871794871,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Grey",
+        "Brown",
+        "Cream"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0g-md2w0wtsrvxg69",
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-md2w13miv5x1b9",
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0k-md2w1gotpj6s24"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,L",
+      "price": 120000,
+      "price_before_discount": 259000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 259000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:55.895Z"
+}

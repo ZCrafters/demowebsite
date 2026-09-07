@@ -1,0 +1,84 @@
+{
+  "name": "[ Marveile ] Sooni Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Sooni Top\nIDR 159.000\n\nMaterial : Rib Knit\nColor : Black | White | Fuschia | Nude | Army Green\n\nBust : 68 - 92 cm\nLength : 46 cm",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 159000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.886281588447654,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Fuschia",
+        "Army Green",
+        "Nude"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/ac4625d761baaca0a0fcd618c7cb6d7b",
+        "https://down-id.img.susercontent.com/file/c34f6f774dea0a9e3f1fa45f5b932898",
+        "https://down-id.img.susercontent.com/file/4d2bf06cef090de60ed4f1bdc9686400",
+        "https://down-id.img.susercontent.com/file/a637182e59cd988cbce76e03966cfc47",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22120-ss2h6qekjrkva1"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "Nude",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Army Green",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Fuschia",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:00.520Z"
+}

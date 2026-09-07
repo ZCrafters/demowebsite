@@ -1,0 +1,113 @@
+{
+  "name": "[ Marveile ] Bora Knit Top / Tops Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Bora Knit Top\nIDR 159.000\n\nMaterial : Soft Knit\nColor : Pink | White | Blue | Black | Mint\n\nSize S/M\nBust : 76 - 88 cm \nLength : 46.5 cm\n\nSize M/L\nBust : 80 - 94 cm\nLength : 47.5 cm",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 159000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.784466019417476,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Pink",
+        "Blue",
+        "Black",
+        "Mint"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/adf68814a5ba57963daca5770e1be993",
+        "https://down-id.img.susercontent.com/file/a4532cf2b56a0ee5d0f550dc155bb867",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22100-3ss421cvt5iva5",
+        "https://down-id.img.susercontent.com/file/a4efa19d991ce2aa39787993526652b8"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S/M",
+        "M/L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Blue,M/L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M/L",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,S/M",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S/M",
+      "price": 159000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Mint,M/L",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M/L",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Mint,S/M",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,S/M",
+      "price": 99000,
+      "price_before_discount": 159000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:12.538Z"
+}

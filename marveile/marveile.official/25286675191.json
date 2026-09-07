@@ -1,0 +1,96 @@
+{
+  "name": "[ Marveile ] Noi Two Tone Knit Polo Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Noi Two Tone Knit Polo Top\nIDR 249.000\n\nMaterial : Soft Cotton Knit\nColor : Black | Cream | Maroon\n\nSize S-M\nLength : 53 cm\nBust : 90 cm\nShoulder Width : 39 cm\nSleeve Length : 20 cm\n\nSize M-L\nLength : 55 cm\nBust : 96 cm\nShoulder Width : 40 cm\nSleeve Length : 21 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kaus Polo"
+  ],
+  "price": 249000,
+  "price_min": 249000,
+  "price_max": 249000,
+  "price_before_discount": 249000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.901197604790419,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Cream",
+        "Black",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224s-mg6rkuwno5cb86",
+        "https://down-id.img.susercontent.com/file/id-11134207-82251-mg6rknkji0wb88",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224q-mg6rl63eugb1d9"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S-M",
+        "M-L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,S-M",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M-L",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S-M",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M-L",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S-M",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M-L",
+      "price": 249000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:58:26.644Z"
+}

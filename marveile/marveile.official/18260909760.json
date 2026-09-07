@@ -1,0 +1,109 @@
+{
+  "name": "[ Marveile ] Carla Knit Pants / Kulot Knit Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Carla Knit Pants\nIDR 139.000\n\nMaterial : Soft Knit \nColor : Black | Choco | Grey | White\n\nSize S/M\nLength : 103cm\nWaist : 60-80cm\nHips : 100cm\n\nSize M/L\nLength : 104cm\nWaist : 68-90cm\nHips : 110cm\n\n‼️ KHUSUS WARNA PUTIH HARAP MEMAKAI CD / DALEMAN SEAMLESS NUDE ‼️ \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Panjang & Legging",
+    "Celana Panjang"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 139000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.897674418604651,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Choco",
+        "Grey",
+        "White"
+      ],
+      "images": []
+    },
+    {
+      "name": "Size",
+      "options": [
+        "SM",
+        "ML"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "White,SM",
+      "price": 99000,
+      "price_before_discount": 139000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,ML",
+      "price": 99000,
+      "price_before_discount": 139000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,SM",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,SM",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,ML",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,ML",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,ML",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,SM",
+      "price": 139000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:11.408Z"
+}

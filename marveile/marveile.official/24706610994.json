@@ -1,0 +1,173 @@
+{
+  "name": "[ Marveile ] Ryu Cargo Pants / Cargo Pants Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Ryu Cargo Pants\nIDR 169.000\n\nMaterial : Semiwool mix Poly\nColor : Black | Ivory | Cream | Teal | Choco\n\nSize S\nWaist : 64 - 72 cm\nLength : 103 cm\nHips : 90 cm\nLingkar Paha : 59 cm\nFront Rise : 33 cm\n\nSize M\nWaist : 68 - 76 cm\nLength : 104 cm\nHips : 94 cm\nLingkar Paha : 61 cm\nFront Rise : 34 cm\n\nSize L\nWaist : 72 - 80 cm\nLength : 105 cm\nHips : 98 cm\nLingkar Paha : 63 cm\nFront Rise : 35 cm\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Panjang & Legging",
+    "Celana Panjang"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 169000,
+  "price_before_discount": 169000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.856435643564357,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Ivory",
+        "Cream",
+        "Teal",
+        "Choco"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lrbafk78dbrt9a",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lrbafk780oxy7d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r992-lrbdrdvdhfbtc4",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lrbdrdvditw94d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-lrbafk78aix2af"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,S",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,S",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,M",
+      "price": 99000,
+      "price_before_discount": 169000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,M",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,L",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,L",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Teal,S",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Ivory,L",
+      "price": 169000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:03:04.214Z"
+}

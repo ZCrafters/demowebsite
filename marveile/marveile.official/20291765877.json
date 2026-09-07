@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Luxee Tweed Blazer / Korean Blazer",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Luxee Tweed Blazer\nIDR 289.000\n\nMaterial : Premium Tweed + Furing\nColor : Black | Cream | White \n\nSize S\nBust : 90 cm \nLength : 50 cm\nSleeve length : 54 cm\n\nSize M\nBust : 94 cm\nLength : 51 cm\nSleeve length : 55 cm\n\nSize L\nBust : 98  cm\nLength : 52 cm\nSleeve length : 56 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 289000,
+  "price_min": 289000,
+  "price_max": 289000,
+  "price_before_discount": 289000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.919245442984315,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98r-ltnou0gj38yr1a",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-ltnou0gj4nj75f",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98s-luorxk0atstjde"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,S",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 289000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:13.724Z"
+}

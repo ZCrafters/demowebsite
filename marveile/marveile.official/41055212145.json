@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Harper Denim Top Blazer / Atasan Blazer Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Harper Denim Top \nIDR 369.000\n\nMaterial : Premium Denim\nColor : Navy | Khaki \n\nSize S\nBust : 92 cm \nLength : 52 cm\nSleeve length : 59 cm\n\nSize M\nBust : 98 cm\nLength : 53 cm\nSleeve length : 60 cm\n\nSize L\nBust : 104 cm\nLength : 54 cm\nSleeve length : 61 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 369000,
+  "price_min": 369000,
+  "price_max": 369000,
+  "price_before_discount": 369000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9440298507462686,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Khaki",
+        "Navy"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0j-mbih4glimt7b5a",
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0g-mbih4om2wj2re9"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Khaki,L",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,S",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,M",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,L",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,S",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,M",
+      "price": 369000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:42.102Z"
+}

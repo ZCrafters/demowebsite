@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Seine Knitted Off Shoulder Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Seine Knitted Top\nIDR 229.000\n\nMaterial : Soft Cotton Knit \nColor : Black | White | Maroon\n\nSize S\nLength : 41 cm\nBust : up to 84 cm\nSleeve Length : 59 cm\n\nSize M\nLength : 42 cm\nBust : up to 90 cm\nSleeve Length : 59 cm\n\nSize L\nLength : 43 cm\nBust : up to 96 cm\nSleeve Length : 59 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Atasan Lainnya"
+  ],
+  "price": 210680,
+  "price_min": 210680,
+  "price_max": 210680,
+  "price_before_discount": 229000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.924050632911392,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Maroon",
+        "White"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m7dl07agctge69",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk5-m7dl0ncounscef",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk3-m7dl0b4wq8450d"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "White,M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:06:32.280Z"
+}

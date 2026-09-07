@@ -1,0 +1,147 @@
+{
+  "name": "[ Marveile ] Maru Blazer Top / Blazer Tops Korean",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Maru Blazer Top\nIDR 269.000\n\nMaterial : Tweed With FURING\nColor : Black | Cream | Blue | Pink\n\nSize S \nBust : 90 cm\nLength : 48 cm\nSleeve length : 22 cm\nShoulder width : 37 cm\n\nSize M\nBust : 94 cm\nLength : 49 cm\nSleeve length : 23 cm\nShoulder width : 38 cm\n\nSize L \nBust : 98 cm\nLength : 50 cm\nSleeve length : 24 cm\nShoulder width : 39 cm\n\nMARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 189000,
+  "price_min": 189000,
+  "price_max": 189000,
+  "price_before_discount": 269000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.927272727272728,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Cream",
+        "Blue",
+        "Pink"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98o-ltt7oxf5zdhm6e",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98y-ltt7oxf60s8m90",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98q-ltt7oxf60s2245",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98z-ltt7oxf63ldid8"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,S",
+      "price": 189000,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,S",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,L",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 189000,
+      "price_before_discount": 269000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,S",
+      "price": 269000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:06:18.033Z"
+}

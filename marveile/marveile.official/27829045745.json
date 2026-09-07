@@ -1,0 +1,146 @@
+{
+  "name": "[ Marveile ] Willa Knitted Top / Atasan Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Willa Knitted Top\nIDR 229.000\n\nMaterial : Soft Cotton Knit \nColor : Black | Choco | Light Grey | Dark Grey \n\nSize S\nLength : 50 cm\nBust : 92 cm\nSleeve Length : 25 cm\n\nSize M\nLength : 51 cm\nBust : 96 cm\nSleeve Length : 25 cm\n\nSize L\nLength : 52 cm\nBust : 100 cm\nSleeve Length : 25 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 210680,
+  "price_min": 210680,
+  "price_max": 210680,
+  "price_before_discount": 229000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.870588235294117,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "Light Grey",
+        "Choco",
+        "Dark Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m7ewovvcoufyf9",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk7-m7ewp1xptbbp71",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbkb-m7ewp55f3zyc1a",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rbk9-m7ewp8qzucymcb"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,L",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Grey,S",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Grey,S",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Grey,M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Grey,M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,S",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 229000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Grey,L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Grey,L",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 210680,
+      "price_before_discount": 229000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:47.142Z"
+}

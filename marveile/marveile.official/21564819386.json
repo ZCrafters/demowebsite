@@ -1,0 +1,94 @@
+{
+  "name": "[ Marveile ] Poppie Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Poppie Top\nIDR 109.000\n\nMaterial : Silk\nColor : Black | White | Maroon | Emerald Green | Dusty Blue \n\nDetails:\nBust : 100 cm\nTop Length : 50  cm\n\nALL SIZE FIT TO L",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Tanktop & Kamisol"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 109000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.924657534246576,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Maroon",
+        "Emerald Green",
+        "Dusty Blue",
+        "Pink"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-6s9n9vajddkv9c",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-7rqgz8vjddkvfc",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-z3yko6ijddkv79",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-rouhtmmjddkv3b",
+        "https://down-id.img.susercontent.com/file/sg-11134201-22110-d4xs8x7jddkve9",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul9-lj6u9k2ltiwd52"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "name": "White",
+      "price": 109000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink",
+      "price": 99000,
+      "price_before_discount": 109000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon",
+      "price": 109000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Emerald Green",
+      "price": 109000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dusty Blue",
+      "price": 109000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black",
+      "price": 109000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:04.225Z"
+}

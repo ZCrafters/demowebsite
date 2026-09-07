@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Youra Short Pants / Celana Pendek Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "YOURA SHORT PANTS\nIDR 209.000\n\nMaterial : Premium Cotton (with furing) \nColor : White | Black\n\nSize S\nWaist : 66cm\nHips : 86cm\nLength : 35cm\n\nSize M\nWaist : 70cm\nHips : 90cm\nLength : 35cm\n\nSize L\nWaist : 74cm\nHips : 94cm\nLength : 35cm\n\n",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Pendek",
+    "Celana Pendek"
+  ],
+  "price": 209000,
+  "price_min": 209000,
+  "price_max": 209000,
+  "price_before_discount": 209000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.919396551724138,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Colour",
+      "options": [
+        "White",
+        "Black"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224q-mjh4atublvybba",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224o-mjh4ax4xqwhv18"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 209000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:51.640Z"
+}

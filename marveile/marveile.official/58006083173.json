@@ -1,0 +1,121 @@
+{
+  "name": "[ Marveile ] Zavi Blazer Top / Atasan Blazer Korea Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Zavi Top Blazer\nIDR 419.000\n\nMaterial : Semi Wool with furing\nColor : Navy | Grey | Khaki\n\nSize S\nBust : 94 cm \nLength : 47 cm\nSleeve length : 58 cm\nShoulder : 38 cm\n\nSize M\nBust : 100 cm\nLength : 48 cm\nSleeve length : 59 cm\nShoulder : 39 cm\n\nSize L\nBust : 106 cm\nLength : 49 cm\nSleeve length : 60 cm\nShoulder : 40 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 419000,
+  "price_min": 419000,
+  "price_max": 419000,
+  "price_before_discount": 419000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.975,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Grey",
+        "Navy",
+        "Khaki"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224w-ml0isaeun9xf30",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224o-ml0isw40epdzd6",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224w-ml0ita9yi9s332"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Grey,S",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,L",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,M",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,L",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,M",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,S",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,S",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Navy,L",
+      "price": 419000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:34.157Z"
+}

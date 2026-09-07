@@ -1,0 +1,147 @@
+{
+  "name": "[ Marveile ] Hailey Top Blazer / Atasan Blazer Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Hailey Top Blazer\nIDR 319.000\n\nMaterial : Soft Tweed with furing \nColor : Maroon | Khaki | Brown | Black \n\nSize S\nBust : 90 cm \nLength : 53 cm\nSleeve length : 59 cm\n\nSize M\nBust : 96 cm\nLength : 53 cm\nSleeve length : 60 cm\n\nSize L\nBust : 102 cm\nLength : 54 cm\nSleeve length : 60 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Jaket, Mantel, & Rompi",
+    "Blazer"
+  ],
+  "price": 319000,
+  "price_min": 319000,
+  "price_max": 319000,
+  "price_before_discount": 319000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.953488372093023,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Maroon",
+        "Khaki",
+        "Brown",
+        "Black"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-822wg-mnoh8jv0z3eua1",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wl-mnoh8p8merd0c7",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wo-mnoh8w6o4cg239",
+        "https://down-id.img.susercontent.com/file/id-11134207-822wj-mnpgncsg969v3a"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Khaki,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:04.928Z"
+}

@@ -1,0 +1,120 @@
+{
+  "name": "[ Marveile ] Mondie Dress / Dress Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Mondie Dress\nIDR 329.000\n\nMaterial : Premium Cotton\nColor : Black | White | Maroon\n\nSize S\nBust : 90 cm\nWaist : 60 - 68 cm\nLength : 86 cm\n\nSize M\nBust : 94 cm\nWaist : 68 - 74 cm\nLength : 87 cm\n\nSize L\nBust : 98 cm\nWaist : 72 - 78 cm\nLength : 88 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Dress"
+  ],
+  "price": 302680,
+  "price_min": 302680,
+  "price_max": 302680,
+  "price_before_discount": 329000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.878048780487805,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lwri1rz2eljec1",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lwri1rz2heoaa1",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lwri1rz2g03u9b"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,S",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 329000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 302680,
+      "price_before_discount": 329000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:06:58.294Z"
+}

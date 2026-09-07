@@ -1,18 +1,10 @@
 "use client";
 import { usePathname } from "next/navigation";
-import Image from "next/image";
 import { MEGA_MENU } from "../../lib/products";
 import { ChevronDownIcon } from "../ui/Icons";
 import { ExpandableSearch } from "./ExpandableSearch";
 import { CartBadge } from "./CartBadge";
 import { MobileNav } from "./MobileNav";
-
-const THUMBS = {
-  Dress: "mv-mega-dress",
-  Top: "mv-mega-top",
-  Bawahan: "mv-mega-bottom",
-  "Outer & Set": "mv-mega-outer",
-};
 
 export function Header() {
   const pathname = usePathname();
@@ -30,9 +22,6 @@ export function Header() {
             <div className="mega" role="menu" aria-label="Mega menu kategori">
               {MEGA_MENU.map((g) => (
                 <div key={g.title}>
-                  <span className="mega-thumb" aria-hidden="true">
-                    <Image src={`https://picsum.photos/seed/${THUMBS[g.title] || "mv-mega"}/360/240`} alt="" width={180} height={120} loading="lazy" />
-                  </span>
                   <h3>{g.title}</h3>
                   <p>{g.desc}</p>
                   {g.links.map((l) => (

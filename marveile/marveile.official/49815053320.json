@@ -1,0 +1,132 @@
+{
+  "name": "[ Marveile ] Alana Knit Top / Korean Knit Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Alana Knit Top\nIDR 319.000\n\nMaterial : Soft Knit\nColor : Maroon | Baby Blue | Grey | Yellow | Brown \n\nSize S\nBust : 88 cm \nLength : 48 cm\nSleeve Length : 24 cm\n\nSize M\nBust : 96 cm \nLength : 50 cm\nSleeve Length : 24 cm\n\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 319000,
+  "price_min": 319000,
+  "price_max": 319000,
+  "price_before_discount": 319000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 5,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Color",
+      "options": [
+        "Maroon",
+        "Baby Blue",
+        "Grey",
+        "Yellow",
+        "Brown"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mre85kks4d8ka7",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mre85onwzpja69",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mre85sg0t6v5c9",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mre8674ne51hca",
+        "https://down-id.img.susercontent.com/file/id-11134207-81ztc-mremgzv4u5ms4b"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Baby Blue,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Yellow,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Blue,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Yellow,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Brown,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:01:12.874Z"
+}

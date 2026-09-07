@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Kuma Knit Cardigan / Korean Cardigan Outer Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Kuma Knit Cardigan ( with padded on shoulder ) \nIDR 199.000\n\nMaterial : Soft Knit\nColor : Pink | Blue | Choco\n\nSize S\nBust : up to 86 cm (as cardigan up to 92cm)\nLength : 44 cm\nSleeve length : 60 cm\n\nSize M\nBust : up to 90 cm (as cardigan up to 98 cm)\nLength : 45 cm\nSleeve length : 61 cm \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 159000,
+  "price_min": 159000,
+  "price_max": 159000,
+  "price_before_discount": 199000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Pink",
+        "Blue",
+        "Choco"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r992-lstx6991sv9i22",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lstx6991u9tyed",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lstx6991voeefa"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Choco,S",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Choco,M",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,S",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,S",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,M",
+      "price": 159000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:06:06.953Z"
+}

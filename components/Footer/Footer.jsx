@@ -30,7 +30,6 @@ export function Footer() {
         <div>
           <h3>Tentang Marveile</h3>
           <a href="/about">Brand kami</a>
-          <a href="/lookbook">Lookbook</a>
           <a href="/wishlist">Wishlist</a>
           <a href="/catalog?sort=new">New arrivals</a>
         </div>

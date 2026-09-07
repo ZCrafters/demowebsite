@@ -6,7 +6,7 @@ export const dynamic = "force-static";
 
 export default function sitemap() {
   const now = new Date();
-  const staticUrls = ["", "/catalog", "/about", "/contact", "/faq", "/lookbook", "/wishlist"]
+  const staticUrls = ["", "/catalog", "/about", "/contact", "/faq", "/wishlist"]
     .map((p) => ({ url: `${SITE}${p}`, lastModified: now, changeFrequency: "weekly", priority: p === "" ? 1 : 0.7 }));
   const catUrls = [...new Set(products.map((p) => p.category))]
     .map((c) => ({ url: `${SITE}/kategori/${c}`, lastModified: now, changeFrequency: "daily", priority: 0.8 }));

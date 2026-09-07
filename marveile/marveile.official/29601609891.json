@@ -1,0 +1,94 @@
+{
+  "name": "[ Marveile ] Kano Denim Midi Skirt / Rok Jeans Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Kano Denim Midi Skirt\nIDR 239.000\n\nMaterial : Soft Jeans ( Stretch )\nColor : Light Blue | Dark Blue\n\nSize S\nLength : 74 cm\nHips : 100 cm\nWaist : 64-68 cm\n\nSize M\nLength : 75 cm\nHips : 104 cm\nWaist : 68-72 cm\n\nSize L\nLength : 76 cm\nHips : 108 cm\nWaist : 72-76 cm\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Rok"
+  ],
+  "price": 219880,
+  "price_min": 219880,
+  "price_max": 219880,
+  "price_before_discount": 239000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.881028938906752,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Light Blue",
+        "Dark Blue"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r990-lw2vesgj0rx7ce",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lw2vesgj26hn79"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Light Blue,M",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,L",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,S",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,M",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Dark Blue,L",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,S",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:02:11.492Z"
+}

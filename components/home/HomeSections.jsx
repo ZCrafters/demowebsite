@@ -1,11 +1,12 @@
 import Image from "next/image";
+import { products } from "../../lib/products";
 import { ProductCard } from "../ui/ProductCard";
 import { Reveal } from "../motion/Reveal";
 
 export function Hero() {
   return (
     <section className="hero-banner hero-under" aria-label="Koleksi unggulan">
-      <Image src="https://picsum.photos/seed/marveile-hero/1600/900" alt="Model memakai koleksi Marveile" fill priority
+      <Image src="/images/hero-cover.jpg" alt="Koleksi Marveile" fill priority
         sizes="(max-width: 768px) 100vw, 1400px" />
       <Reveal className="hero-copy" staggerChildren>
         <p className="kicker">ELEVATED EVERYDAY FASHION</p>
@@ -18,11 +19,11 @@ export function Hero() {
 }
 
 const CATS = [
-  { slug: "dress", label: "Dress", seed: "mv-dress" },
-  { slug: "tops", label: "Top", seed: "mv-top" },
-  { slug: "cutbray", label: "Cutbray", seed: "mv-cutbray" },
-  { slug: "pants", label: "Celana", seed: "mv-pants" },
-  { slug: "skort", label: "Rok / Skort", seed: "mv-skort" },
+  { slug: "dress", label: "Dress" },
+  { slug: "tops", label: "Top" },
+  { slug: "cutbray", label: "Cutbray" },
+  { slug: "pants", label: "Celana" },
+  { slug: "skort", label: "Rok / Skort" },
 ];
 
 export function CategoryGrid() {
@@ -30,12 +31,15 @@ export function CategoryGrid() {
     <section aria-label="Kategori">
       <div className="section-head"><h2>Belanja per Kategori</h2><a href="/catalog">Lihat semua →</a></div>
       <Reveal className="cat-grid" staggerChildren>
-        {CATS.map((c) => (
-          <a key={c.slug} className="cat-card" href={`/catalog?cat=${c.slug}`}>
-            <Image src={`https://picsum.photos/seed/${c.seed}/600/800`} alt={c.label} fill sizes="(max-width: 768px) 50vw, 20vw" loading="lazy" />
-            <span className="cat-label">{c.label}</span>
-          </a>
-        ))}
+        {CATS.map((c) => {
+          const sample = products.find((p) => p.category === c.slug);
+          return (
+            <a key={c.slug} className="cat-card" href={`/catalog?cat=${c.slug}`}>
+              {sample && <Image src={sample.images[0]} alt={c.label} fill sizes="(max-width: 768px) 50vw, 20vw" loading="lazy" />}
+              <span className="cat-label">{c.label}</span>
+            </a>
+          );
+        })}
       </Reveal>
     </section>
   );

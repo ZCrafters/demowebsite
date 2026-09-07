@@ -1,0 +1,132 @@
+{
+  "name": "[ Marveile ] Costa Knit Top / Korean Top Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Costa Knit Top\nIDR 219.000\n\nMaterial : Soft Cotton Knit\nColor : Black | White | Milo | Maroon | Baby Pink\n\nSize S-M\nBust : 92 cm \nLength : 57 cm\nSleeve length : 55 cm\n\nSize M-L\nBust : 100 cm\nLength : 60 cm\nSleeve length : 58 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 201480,
+  "price_min": 201480,
+  "price_max": 219000,
+  "price_before_discount": 219000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.9253438113948915,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Milo",
+        "Maroon",
+        "Baby Pink"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasl-m62p7x89kade91",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasc-m62h9o1vxxar3d",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rask-m62h9kniwzh404",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasd-m62p819dpc1s1c",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasb-m62h9gj2y7uo30"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S-M",
+        "M-L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,M-L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S-M",
+      "price": 201480,
+      "price_before_discount": 219000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S-M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,M-L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Pink,M-L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S-M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M-L",
+      "price": 201480,
+      "price_before_discount": 219000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,S-M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Milo,M-L",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Baby Pink,S-M",
+      "price": 219000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:04:04.625Z"
+}

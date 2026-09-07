@@ -4,7 +4,6 @@ import { WishlistProvider } from "../components/wishlist/Wishlist";
 import { CartDrawer } from "../components/cart/CartDrawer";
 import { Header } from "../components/Header/Header";
 import { Footer } from "../components/Footer/Footer";
-import { NoticeBar } from "../components/ui/Chrome";
 
 export const metadata = {
   title: "Marveile — Elevated Everyday Fashion",
@@ -26,7 +25,6 @@ export default function RootLayout({ children }) {
             <a href="#main" className="skip-link">Lewati ke konten</a>
             <div className="top-strip">Demo — harga provisional, konfirmasi di official store.</div>
             <Header />
-            <NoticeBar />
             <CartDrawer />
             <main className="wrap" id="main">{children}</main>
             <Footer />

@@ -6,17 +6,20 @@ const KEY = "marveile-wishlist-v1";
 
 export function WishlistProvider({ children }) {
   const [slugs, setSlugs] = useState([]);
+  const [hydrated, setHydrated] = useState(false);
   useEffect(() => {
     try {
       const raw = JSON.parse(localStorage.getItem(KEY) || "[]");
       if (Array.isArray(raw)) setSlugs(raw.filter((s) => typeof s === "string"));
     } catch { /* abaikan */ }
+    setHydrated(true);
   }, []);
   useEffect(() => {
+    if (!hydrated) return; // jangan timpa localStorage sebelum load awal selesai
     try {
       localStorage.setItem(KEY, JSON.stringify(slugs));
     } catch { /* mode memori */ }
-  }, [slugs ]);
+  }, [slugs, hydrated]);
 
   const has = (slug) => slugs.includes(slug);
   const toggle = (slug) =>

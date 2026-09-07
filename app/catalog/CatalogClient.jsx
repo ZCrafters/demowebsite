@@ -28,8 +28,10 @@ export default function CatalogClient() {
 
   const q = (sp.get("q") || "").toLowerCase();
   const cat = sp.get("cat") || "";
-  const sizes = (sp.get("size") || "").split(",").filter(Boolean);
-  const colors = (sp.get("color") || "").split(",").filter(Boolean);
+  // Checkbox groups submit repeated same-name params (size=S&size=M); other links
+  // (sort dropdown, mobile tabs) build a single comma-joined value. Support both.
+  const sizes = sp.getAll("size").flatMap((v) => v.split(",")).filter(Boolean);
+  const colors = sp.getAll("color").flatMap((v) => v.split(",")).filter(Boolean);
   const max = parseInt(sp.get("max") || "", 10) || 0;
   const sort = sp.get("sort") || "featured";
   const view = sp.get("view") === "list" ? "list" : "grid";
@@ -54,7 +56,11 @@ export default function CatalogClient() {
   const current = { q: sp.get("q") || "", cat, size: sizes.join(","), color: colors.join(","), max: sp.get("max") || "", sort };
 
   return (
-    <div className="plp" style={{ marginTop: 12 }}>
+    // key: force a remount once the real query string is read from window.location on
+    // mount (SSR/static export can't know it upfront). Without this, the uncontrolled
+    // filter inputs (defaultChecked/defaultValue) hydrate blank and never catch up,
+    // so the sidebar always looks reset even though the results above are filtered.
+    <div className="plp" style={{ marginTop: 12 }} key={sp.toString()}>
       <FilterSidebar current={current} />
       <div>
         <form className="catalog-search" action="/catalog/" method="get" role="search">

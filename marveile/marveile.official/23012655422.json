@@ -1,0 +1,145 @@
+{
+  "name": "[ Marveile ] Fallon Highwaist Cullote Jeans / Kulot Jeans Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Fallon Highwaist Cullote Jeans\nIDR 189.000\n\nColor : Light Blue | Cream | Black\n\nOn Model\nSize : S\nBB : 48 kg\nTB : 165 cm\n\nSize S\nWaist : 66 cm\nHips : 94 cm\nLength : 102 cm\n\nSize M\nWaist : 70 cm\nHips : 98 cm\nLength : 103 cm\n\nSize L\nWaist : 74 cm\nHips : 102 cm\nLength : 104 cm\n\nSize XL\nWaist : 78 cm\nHips : 106 cm\nLength : 105 cm\n\nJeans By MARVEILE",
+  "brand": null,
+  "categories": [
+    "Pakaian Wanita",
+    "Celana Jeans"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 189000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.818181818181818,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Light Blue",
+        "Cream",
+        "Black"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qukx-lg9pwv2u6x49fa",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qukx-lg9pwv2u43zdea",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul8-lg9pwv2u2pexf4"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Black,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,M",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,XL",
+      "price": 99000,
+      "price_before_discount": 189000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,XL",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,L",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Light Blue,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,XL",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S",
+      "price": 189000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:02:19.610Z"
+}

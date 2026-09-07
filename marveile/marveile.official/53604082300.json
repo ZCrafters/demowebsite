@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Qing Cheongsam Top / Atasan Cheongsam Tops Wanita CNY",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Qing Cheongsam Top\nIDR 319.000\n\nMaterial : Printed Cotton with furing\nColor : Maroon | Red\n\nSize S\nBust : 88 cm\nWaist : 80 cm\nLength : 62 cm\nSleeve length : 20 cm\n\nSize M\nBust : 92 cm\nWaist : 84 cm\nLength : 64 cm\nSleeve length : 21 cm\n\nSize L\nBust : 98 cm\nWaist : 88 cm\nLength : 66 cm\nSleeve length : 22 cm\n\n\n*Mohon berikan toleransi perbedaan size 1-3 cm dikarenakan proses jahit & pengukuran manual\n\n*Warna produk di foto & asli mungkin ada sedikit perbedaan dikarenakan kamera / cahaya saat photoshoot.\n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 259000,
+  "price_min": 259000,
+  "price_max": 319000,
+  "price_before_discount": 319000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.944444444444445,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Maroon",
+        "Red"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-8224y-mjbm8bzky70l32",
+        "https://down-id.img.susercontent.com/file/id-11134207-8224v-mjbm8je4y7sy55"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Maroon,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Red,S",
+      "price": 259000,
+      "price_before_discount": 319000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Red,M",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Red,L",
+      "price": 319000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Maroon,S",
+      "price": 259000,
+      "price_before_discount": 319000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:03:52.387Z"
+}

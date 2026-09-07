@@ -1,0 +1,180 @@
+{
+  "name": "[ Marveile ] Claire Top / Tops Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Claire Top\nIDR 199.000\n\nMaterial : Cotton Polyster With CUP BRA\nColor : White | Black | Pink | Blue\n\nSize XS\nBust : 84 cm\nLength : 31 cm\nWaist : 66 cm\n\nSize S \nBust :  89 cm\nLength : 32 cm\nWaist :  70 cm\n\nSize M \nBust : 94 cm\nLength : 33 cm\nWaist : 74 cm\n\nSize L \nBust : 98 cm\nLength : 34 cm\nWaist : 78 cm\n\nMarveile",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Atasan",
+    "Kemeja & Blouse"
+  ],
+  "price": 99000,
+  "price_min": 99000,
+  "price_max": 99000,
+  "price_before_discount": 199000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.8708133971291865,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "Black",
+        "White",
+        "Pink",
+        "Blue"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7quky-lh66ct1gokm7c9",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul7-lh66xl4pwiwb61",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul8-lh66ct1gn61r62",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul4-lh66ct1glrhbec"
+      ]
+    },
+    {
+      "name": "Size",
+      "options": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Pink,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,L",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,L",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,XS",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,XS",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,L",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Pink,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,XS",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Black,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,XS",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,L",
+      "price": 99000,
+      "price_before_discount": 199000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Blue,M",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S",
+      "price": 199000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T11:01:56.381Z"
+}

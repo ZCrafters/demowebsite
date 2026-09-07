@@ -1,0 +1,95 @@
+{
+  "name": "[ Marveile ] Elora Knit Top / Atasan Rajut Wanita",
+  "url": "https://shopee.co.id/product/undefined/undefined",
+  "description": "Elora Knit Top\nIDR 239.000\n\nMaterial : Soft Knit\nColor : White | Cream | Grey\n\nSize S-M\nLength : 50 cm\nBust : 94 cm\nShoulder Width : 35 cm\nSleeve Length : 53 cm\n\nSize M-L\nLength : 51 cm\nBust : 104  cm\nShoulder Width : 36 cm\nSleeve Length : 54 cm\n\nNB : Bahan knit merupakan jahitan dari benang utuh & bahan stretch.\nMohon berikan kemakluman jika ada perbedaan size 2-3cm karena handmade \n\nMARVEILE",
+  "brand": "MARVEILE",
+  "categories": [
+    "Pakaian Wanita",
+    "Sweater & Cardigan"
+  ],
+  "price": 219880,
+  "price_min": 219880,
+  "price_max": 219880,
+  "price_before_discount": 239000,
+  "discount": 0,
+  "currency": "IDR",
+  "stock": null,
+  "sold": null,
+  "rating": 4.944954128440367,
+  "rating_count": null,
+  "images": [],
+  "tier_variations": [
+    {
+      "name": "Warna",
+      "options": [
+        "White",
+        "Cream",
+        "Grey"
+      ],
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasm-m4yhe1qffzq0d9",
+        "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m4yhehhaegsied",
+        "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m4yhfmemieyo38"
+      ]
+    },
+    {
+      "name": "Ukuran",
+      "options": [
+        "S-M",
+        "M-L"
+      ],
+      "images": []
+    }
+  ],
+  "models": [
+    {
+      "name": "Cream,M-L",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,S-M",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Grey,M-L",
+      "price": 239000,
+      "price_before_discount": 0,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,S-M",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "White,M-L",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    },
+    {
+      "name": "Cream,S-M",
+      "price": 219880,
+      "price_before_discount": 239000,
+      "stock": null,
+      "sold": null,
+      "sku": null
+    }
+  ],
+  "scraped_at": "2026-09-06T12:05:14.200Z"
+}
