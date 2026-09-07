@@ -44,10 +44,12 @@ export function FilterFields({ current }) {
 export function FilterSidebar({ current }) {
   return (
     <aside className="filter-box desktop-only" aria-label="Filter produk">
-      <h3>Filter</h3>
       <form action="/catalog" method="get">
+        <div className="filter-head">
+          <h3>Filter</h3>
+          <button className="btn filter-apply" type="submit">Terapkan</button>
+        </div>
         <FilterFields current={current} />
-        <button className="btn filter-apply" type="submit" style={{ marginTop: 12 }}>Terapkan</button>
       </form>
     </aside>
   );

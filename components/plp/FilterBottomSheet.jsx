@@ -14,17 +14,19 @@ export function FilterBottomSheet({ current, count }) {
         <div className="search-scrim" onClick={() => setOpen(false)} />
         <div className="sheet-panel" role="dialog" aria-label="Filter produk">
           <div className="sheet-grab" aria-hidden="true" />
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
+          <div className="filter-head">
             <strong>Filter</strong>
-            <button className="icon-btn" aria-label="Tutup filter" onClick={() => setOpen(false)}>
-              <CloseIcon />
-            </button>
+            <div style={{ display: "flex", gap: 6, alignItems: "center" }}>
+              <button className="btn" type="submit" form="mobile-filter-form">Terapkan</button>
+              <button className="icon-btn" aria-label="Tutup filter" onClick={() => setOpen(false)}>
+                <CloseIcon />
+              </button>
+            </div>
           </div>
-          <form action="/catalog" method="get" onSubmit={() => setOpen(false)}>
+          <form id="mobile-filter-form" action="/catalog" method="get" onSubmit={() => setOpen(false)}>
             <div style={{ display: "grid", gap: 16 }}>
               <FilterFields current={current} />
             </div>
-            <button className="btn" type="submit" style={{ width: "100%", marginTop: 16 }}>Tampilkan hasil</button>
           </form>
         </div>
       </div>
